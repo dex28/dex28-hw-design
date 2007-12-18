@@ -1,0 +1,19 @@
+[Directory]
+CAM for CPLD-Prog.cam=CAMManager
+CPLD-Prog.DRC=Text
+CPLD-Prog.ERC=Text
+CPLD-Prog.pcb=PCB
+CPLD-Prog.REP=Text
+CPLD-Prog.sch=Sch
+[CAM for CPLD-Prog.cam]
+Editor Kind=CAMManager
+[CPLD-Prog.DRC]
+Editor Kind=Text
+[CPLD-Prog.ERC]
+Editor Kind=Text
+[CPLD-Prog.pcb]
+Editor Kind=PCB
+[CPLD-Prog.REP]
+Editor Kind=Text
+[CPLD-Prog.sch]
+Editor Kind=Sch

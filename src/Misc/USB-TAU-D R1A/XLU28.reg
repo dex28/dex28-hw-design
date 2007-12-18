@@ -1,0 +1,34 @@
+[Directory]
+TAU-D R1A.pcb=PCB
+TAU-D R1A.REP=Text
+TAU-D R1A.sch=Sch
+TAU-D R1A.ERC=Text
+TAU-D R1A.DRC=Text
+Preview TAU-D R1A.PPC=PCBPrint
+CAM for TAU-D R1A.cam=CAMManager
+Mechanics=Folder
+TAU-D R1A.XLS=SPREAD
+TAU-D R1A.cfg=Text
+TAU-D R1A.XTR=Text
+[TAU-D R1A.pcb]
+Editor Kind=PCB
+[TAU-D R1A.REP]
+Editor Kind=Text
+[TAU-D R1A.sch]
+Editor Kind=Sch
+[TAU-D R1A.ERC]
+Editor Kind=Text
+[TAU-D R1A.DRC]
+Editor Kind=Text
+[Preview TAU-D R1A.PPC]
+Editor Kind=PCBPrint
+[CAM for TAU-D R1A.cam]
+Editor Kind=CAMManager
+[Mechanics]
+Editor Kind=Folder
+[TAU-D R1A.XLS]
+Editor Kind=SPREAD
+[TAU-D R1A.cfg]
+Editor Kind=Text
+[TAU-D R1A.XTR]
+Editor Kind=Text

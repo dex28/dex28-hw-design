@@ -1,0 +1,25 @@
+[Directory]
+XLU28 R1A=Folder
+XPU-D R1A=Folder
+PUB R1A=Folder
+XPU-C64X R1A=Folder
+XPU-D R2A=Folder
+XPU-D R3A.Pcb=PCB
+ALIX2C.Pcb=PCB
+XPU-D R2A - R2B Patch.Pcb=PCB
+[XLU28 R1A]
+Editor Kind=Folder
+[XPU-D R1A]
+Editor Kind=Folder
+[PUB R1A]
+Editor Kind=Folder
+[XPU-C64X R1A]
+Editor Kind=Folder
+[XPU-D R2A]
+Editor Kind=Folder
+[XPU-D R3A.Pcb]
+Editor Kind=PCB
+[ALIX2C.Pcb]
+Editor Kind=PCB
+[XPU-D R2A - R2B Patch.Pcb]
+Editor Kind=PCB

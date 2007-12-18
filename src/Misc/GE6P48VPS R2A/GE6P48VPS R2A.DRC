@@ -1,0 +1,38 @@
+Protel Design System Design Rule Check
+PCB File : Doc\GE6P48VPS R2A\GE6P48VPS R2A.Pcb
+Date     : 23-Mar-2006
+Time     : 00:37:29
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Prefered=30mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Is a Polygon  ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is a Polygon  ),(Is part of net class HIPOT )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mil) (Max=20mil) (Prefered=10mil) (Is within region (54800000,61207520,56160000,62450000) )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:06

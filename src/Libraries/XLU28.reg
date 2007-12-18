@@ -1,0 +1,23 @@
+[Directory]
+A3.dot=Sch
+Part.LIB=PCBLib
+Device.LIB=SchLib
+PCB=Folder
+Sch=Folder
+c54x FastRef.Pcb=PCB
+PCI.Pcb=PCB
+[A3.dot]
+Editor Kind=Sch
+[Part.LIB]
+Editor Kind=PCBLib
+Description=PCB1.lib
+[Device.LIB]
+Editor Kind=SchLib
+[PCB]
+Editor Kind=Folder
+[Sch]
+Editor Kind=Folder
+[c54x FastRef.Pcb]
+Editor Kind=PCB
+[PCI.Pcb]
+Editor Kind=PCB

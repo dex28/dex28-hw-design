@@ -1,0 +1,38 @@
+Schematic Parts Extract with Excel Report...
+============================================
+Created: 2007-01-28 17:11:50
+
+Processing Report:
+Parameters used:
+Excel file name: "C:\WORK\DEX28\HW\Assembly\A Stock MGR\Reports\ASSY USB-TAU-D R2A.xls"
+Match Field: "Designator"
+Match Excel Column: 2
+Scope: "All"
+Current Sheet Only: "False"
+Compare and Report Only: "False"
+Updating the following fields:
+   "Part Type" from column 1
+   "Part Field 1" from column 5
+   "Part Field 2" from column 6
+   "Part Field 3" from column 7
+   "Part Field 4" from column 8
+   "Part Field 5" from column 9
+   "Part Field 6" from column 10
+Opening all the sheets in this project
+Number of sheets to be updated: 2
+Processing sheet 1 of 2     Misc\USB-TAU-D R2A\TAU-D R2A.sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 42
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 1 of 2
+Processing sheet 2 of 2     Misc\USB-TAU-D R2A\SAM7.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 41
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 2 of 2
+
+
+All parts were matched in the Excel file.
+

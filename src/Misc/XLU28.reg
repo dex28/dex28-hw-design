@@ -1,0 +1,34 @@
+[Directory]
+CPLD-Prog=Folder
+GE6P48VPS R1B=Folder
+GE6P48VPS R2A=Folder
+LM5000=Folder
+PCI-2DSP=Folder
+PXB-GE2P R1A=Folder
+USB-TAU-D R1A=Folder
+Paralel-III=Folder
+USB-TAU-D R2A=Folder
+USB-DTS=Folder
+VR4 Power Jumper=Folder
+[CPLD-Prog]
+Editor Kind=Folder
+[GE6P48VPS R1B]
+Editor Kind=Folder
+[GE6P48VPS R2A]
+Editor Kind=Folder
+[LM5000]
+Editor Kind=Folder
+[PCI-2DSP]
+Editor Kind=Folder
+[PXB-GE2P R1A]
+Editor Kind=Folder
+[USB-TAU-D R1A]
+Editor Kind=Folder
+[Paralel-III]
+Editor Kind=Folder
+[USB-TAU-D R2A]
+Editor Kind=Folder
+[USB-DTS]
+Editor Kind=Folder
+[VR4 Power Jumper]
+Editor Kind=Folder

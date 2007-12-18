@@ -1,0 +1,38 @@
+Protel Design System Design Rule Check
+PCB File : Doc\USB-TAU-D R1A\TAU-D R1A.pcb
+Date     : 19-Feb-2006
+Time     : 21:12:03
+
+Processing Rule : Clearance Constraint (Gap=0mil) (Is Pad D1-0 ),(Is Pad D1-2 )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=60mil) (Prefered=10mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=250mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=60mil) (Prefered=20mil) (Is on net +5V )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11mil) (Is a Polygon  ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is a Polygon  ),(Is Pad D1-0 )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:07

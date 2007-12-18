@@ -1,0 +1,60 @@
+Bill of Material for GE6P48VPS.Bom
+
+Used Part Type           Designator Footprint  Description                       
+==== =================== ========== ========== ================================= 
+6    0.1uF               C5 C6 C7   0603W      Capacitor                         
+                         C8 C9 C52                                               
+6    0.47uF/63V=         C21 C23    2824       Capacitor                         
+                         C25 C27                                                 
+                         C29 C31                                                 
+6    1M                  R8 R14 R20 0603W                                        
+                         R26 R32                                                 
+                         R38                                                     
+6    1k                  R5 R11 R17 0603W                                        
+                         R23 R29                                                 
+                         R35                                                     
+6    2.2E                R9 R15 R21 1206T                                        
+                         R27 R33                                                 
+                         R39                                                     
+1    2.2nF/100V=         C4         1206       Capacitor                         
+6    2.2nF/100V=         C20 C22    1206T      Capacitor                         
+                         C24 C26                                                 
+                         C28 C30                                                 
+6    2.7E                R7 R13 R19 1206T                                        
+                         R25 R31                                                 
+                         R37                                                     
+4    10k                 R1 R2 R3   0603W                                        
+                         R4                                                      
+12   10uF                C10 C11    3216       Capacitor                         
+                         C12 C13                                                 
+                         C14 C15                                                 
+                         C16 C17                                                 
+                         C18 C19                                                 
+                         C50 C51                                                 
+4    22uF, 63V=          C1 C1a C2  D6.3       Capacitor                         
+                         C3                                                      
+12   33uH, 160mA         L3a L3b    1812T      Inductor                          
+                         L4a L4b                                                 
+                         L5a L5b                                                 
+                         L6a L6b                                                 
+                         L7a L7b                                                 
+                         L8a L8b                                                 
+6    100E                R10 R16    0603W                                        
+                         R22 R28                                                 
+                         R34 R40                                                 
+1    ATmega8L-8AC        U1         TQFP32     8-bit AVR with 8k bytes ISP flash 
+6    BC817               Q2 Q4 Q6   SOT23      NPN General Purpose Transistor    
+                         Q8 Q10 Q12                                              
+1    BLM41P750S          L1         1808       Inductor                          
+1    BLM-21A102S         L2         0805T      Inductor                          
+6    HDR1X2              J4 J5 J6   HDR1X2     Connector                         
+                         J7 J8 J9                                                
+2    HDR2X2              J1 J2      HDR2X2                                       
+1    HDR2X3              J3         HDR2X3                                       
+6    IRLR120N            Q1 Q3 Q5   D-PAK      N-Channel MOSFET D-PAK            
+                         Q7 Q9 Q11                                               
+1    MAX6120             U2         SOT23      1.2V Voltage Reference            
+2    SMD030              F1 F2      POLYSWSMD  Fuse                              
+6    open                R6 R12 R18 0603W                                        
+                         R24 R30                                                 
+                         R36                                                     

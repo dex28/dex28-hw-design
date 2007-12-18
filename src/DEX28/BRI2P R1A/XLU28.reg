@@ -1,0 +1,108 @@
+[Directory]
+ARM MCU.Sch=Sch
+MCU Serial.Sch=Sch
+Power Supply.Sch=Sch
+DSP Core.Sch=Sch
+MCU Ethernet.Sch=Sch
+DEX28-BRI2P R1A.Bom=Text
+DEX28-BRI2P R1A.cfg=Text
+DEX28-BRI2P R1A.DRC=Text
+DEX28-BRI2P R1A.ERC=Text
+DEX28-BRI2P R1A.REP=Text
+DEX28-BRI2P R1A.Sch=Sch
+Preview DEX28-BRI2P R1A.PPC=PCBPrint
+CAM for DEX28-BRI2P R1A.cam=CAMManager
+ISDN Controller.Sch=Sch
+ST Interface 1.Sch=Sch
+ST Interface 2.Sch=Sch
+MCU Memory.Sch=Sch
+DEX28-BRI2P R1A.Pcb=PCB
+Power over Ethernet.ERC=Text
+DC-DC Converters.Sch=Sch
+DEX28-BRI2P R1A.XLS=SPREAD
+DEX28-BRI2P R1A.DMP=Text
+DEX28-BRI2P R1A.TXT=Text
+DEX28-BRI2P R1A.XTR=Text
+DEX28-BRI2P R1A.xrf=Text
+CAM for DEX28-BRI2P R1A=Folder
+[ARM MCU.Sch]
+Editor Kind=Sch
+[MCU Serial.Sch]
+Editor Kind=Sch
+[Power Supply.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core.Sch]
+Editor Kind=Sch
+Attributes=131072
+[MCU Ethernet.Sch]
+Editor Kind=Sch
+[DEX28-BRI2P R1A.Bom]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.cfg]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.DRC]
+Editor Kind=Text
+[DEX28-BRI2P R1A.ERC]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.REP]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Preview DEX28-BRI2P R1A.PPC]
+Editor Kind=PCBPrint
+[CAM for DEX28-BRI2P R1A.cam]
+Editor Kind=CAMManager
+[ISDN Controller.Sch]
+Editor Kind=Sch
+Attributes=131072
+[ST Interface 1.Sch]
+Editor Kind=Sch
+[ST Interface 2.Sch]
+Editor Kind=Sch
+[MCU Memory.Sch]
+Editor Kind=Sch
+[DEX28-BRI2P R1A.Pcb]
+Editor Kind=PCB
+[Power over Ethernet.ERC]
+Editor Kind=Text
+[DC-DC Converters.Sch]
+Editor Kind=Sch
+[DEX28-BRI2P R1A.XLS]
+Editor Kind=SPREAD
+[DEX28-BRI2P R1A.DMP]
+Editor Kind=Text
+[DEX28-BRI2P R1A.TXT]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.XTR]
+Editor Kind=Text
+Attributes=131072
+[DEX28-BRI2P R1A.Sch Childlist]
+ChildCount=6
+Child1=Power Supply.Sch
+Child2=ARM MCU.Sch
+Child3=MCU Memory.Sch
+Child4=MCU Serial.Sch
+Child5=MCU Ethernet.Sch
+Child6=DSP Core.Sch
+[Power Supply.Sch Childlist]
+ChildCount=1
+Child1=DC-DC Converters.Sch
+[DSP Core.Sch Childlist]
+ChildCount=1
+Child1=ISDN Controller.Sch
+[ISDN Controller.Sch Childlist]
+ChildCount=2
+Child1=ST Interface 1.Sch
+Child2=ST Interface 2.Sch
+[DEX28-BRI2P R1A.xrf]
+Editor Kind=Text
+Attributes=131072
+[CAM for DEX28-BRI2P R1A]
+Editor Kind=Folder

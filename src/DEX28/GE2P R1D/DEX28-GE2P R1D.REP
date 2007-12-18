@@ -1,0 +1,687 @@
+Nets report For Doc\DEX28-GE2P R1B\DEX28-GE2P R1B.Pcb
+On 13-Sep-2005 at 14:01:24
+
++3.3V.FB_3    Signal Layers Only  Length:1138 mils
+
++3.3V.NF_3    Signal Layers Only  Length:5455 mils
+
++48VIN    Signal Layers Only  Length:4483 mils
+
++5V    Signal Layers Only  Length:1589 mils
+
+-48VIN    Signal Layers Only  Length:2569 mils
+
+A0_1    Signal Layers Only  Length:4705 mils
+
+A0_10    Signal Layers Only  Length:2876 mils
+
+A10_1    Signal Layers Only  Length:4979 mils
+
+A11_1    Signal Layers Only  Length:4977 mils
+
+A12_1    Signal Layers Only  Length:1048 mils
+
+A13_1    Signal Layers Only  Length:4865 mils
+
+A14_1    Signal Layers Only  Length:4833 mils
+
+A15_1    Signal Layers Only  Length:969 mils
+
+A16_1    Signal Layers Only  Length:3060 mils
+
+A17_1    Signal Layers Only  Length:3939 mils
+
+A18_1    Signal Layers Only  Length:913 mils
+
+A19_1    Signal Layers Only  Length:821 mils
+
+A1_1    Signal Layers Only  Length:6340 mils
+
+A1_10    Signal Layers Only  Length:3021 mils
+
+A20_1    Signal Layers Only  Length:811 mils
+
+A21_1    Signal Layers Only  Length:3177 mils
+
+A22_1    Signal Layers Only  Length:2877 mils
+
+A2_1    Signal Layers Only  Length:5229 mils
+
+A2_10    Signal Layers Only  Length:3160 mils
+
+A3_1    Signal Layers Only  Length:4281 mils
+
+A4_1    Signal Layers Only  Length:4109 mils
+
+A5_1    Signal Layers Only  Length:4165 mils
+
+A6_1    Signal Layers Only  Length:4913 mils
+
+A7_1    Signal Layers Only  Length:4892 mils
+
+A8_1    Signal Layers Only  Length:4843 mils
+
+A9_1    Signal Layers Only  Length:5014 mils
+
+BBCLK0_10    Signal Layers Only  Length:961 mils
+
+BBCLK1_10    Signal Layers Only  Length:2038 mils
+
+BBFS0_10    Signal Layers Only  Length:1092 mils
+
+BBFS1_10    Signal Layers Only  Length:2109 mils
+
+BBR0_10    Signal Layers Only  Length:676 mils
+
+BBR1_10    Signal Layers Only  Length:975 mils
+
+BBX0_10    Signal Layers Only  Length:751 mils
+
+BBX1_10    Signal Layers Only  Length:1024 mils
+
+BCLK0_10    Signal Layers Only  Length:409 mils
+
+BCLK1_10    Signal Layers Only  Length:943 mils
+
+BR0_10    Signal Layers Only  Length:427 mils
+
+BR1_10    Signal Layers Only  Length:575 mils
+
+BX0_10    Signal Layers Only  Length:380 mils
+
+BX1_10    Signal Layers Only  Length:622 mils
+
+CCLK_10    Signal Layers Only  Length:1815 mils
+
+CIN_10    Signal Layers Only  Length:1878 mils
+
+CLK0_9    Signal Layers Only  Length:1149 mils
+
+CLK1_9    Signal Layers Only  Length:1186 mils
+
+CLKMD1_9    Signal Layers Only  Length:283 mils
+
+CLKMD2_9    Signal Layers Only  Length:261 mils
+
+CLKMD3_9    Signal Layers Only  Length:279 mils
+
+COUT_10    Signal Layers Only  Length:1802 mils
+
+CTS1_1    Signal Layers Only  Length:1680 mils
+
+C\C\S\0\_10    Signal Layers Only  Length:768 mils
+
+C\C\S\1\_10    Signal Layers Only  Length:355 mils
+
+C\I\N\T\_10    Signal Layers Only  Length:2023 mils
+
+D0_1    Signal Layers Only  Length:4653 mils
+
+D0_10    Signal Layers Only  Length:1885 mils
+
+D10_1    Signal Layers Only  Length:2652 mils
+
+D11_1    Signal Layers Only  Length:2594 mils
+
+D12_1    Signal Layers Only  Length:2429 mils
+
+D13_1    Signal Layers Only  Length:2378 mils
+
+D14_1    Signal Layers Only  Length:2217 mils
+
+D15_1    Signal Layers Only  Length:2173 mils
+
+D16_1    Signal Layers Only  Length:732 mils
+
+D17_1    Signal Layers Only  Length:803 mils
+
+D18_1    Signal Layers Only  Length:843 mils
+
+D19_1    Signal Layers Only  Length:912 mils
+
+D1_1    Signal Layers Only  Length:5256 mils
+
+D1_10    Signal Layers Only  Length:1919 mils
+
+D20_1    Signal Layers Only  Length:955 mils
+
+D21_1    Signal Layers Only  Length:1021 mils
+
+D22_1    Signal Layers Only  Length:1067 mils
+
+D23_1    Signal Layers Only  Length:1129 mils
+
+D24_1    Signal Layers Only  Length:1161 mils
+
+D25_1    Signal Layers Only  Length:1128 mils
+
+D26_1    Signal Layers Only  Length:1111 mils
+
+D27_1    Signal Layers Only  Length:1082 mils
+
+D28_1    Signal Layers Only  Length:1062 mils
+
+D29_1    Signal Layers Only  Length:1027 mils
+
+D2_1    Signal Layers Only  Length:5292 mils
+
+D30_1    Signal Layers Only  Length:1142 mils
+
+D31_1    Signal Layers Only  Length:1093 mils
+
+D3_1    Signal Layers Only  Length:5055 mils
+
+D4_1    Signal Layers Only  Length:4930 mils
+
+D5_1    Signal Layers Only  Length:4846 mils
+
+D6_1    Signal Layers Only  Length:4612 mils
+
+D7_1    Signal Layers Only  Length:4530 mils
+
+D8_1    Signal Layers Only  Length:2871 mils
+
+D9_1    Signal Layers Only  Length:2780 mils
+
+DBGU.RXD_7    Signal Layers Only  Length:249 mils
+
+DBGU.TXD_7    Signal Layers Only  Length:349 mils
+
+DCLK0_10    Signal Layers Only  Length:956 mils
+
+DCLK1_10    Signal Layers Only  Length:486 mils
+
+DR0_10    Signal Layers Only  Length:1048 mils
+
+DR1_10    Signal Layers Only  Length:544 mils
+
+DRXD_1    Signal Layers Only  Length:775 mils
+
+DSP_C\S\_1    Signal Layers Only  Length:1666 mils
+
+DSP_I\N\T\_1    Signal Layers Only  Length:2036 mils
+
+DSP_RDY_1    Signal Layers Only  Length:972 mils
+
+DSP_RST_1    Signal Layers Only  Length:2233 mils
+
+DSP_R\S\T\_1    Signal Layers Only  Length:3389 mils
+
+DSR1_1    Signal Layers Only  Length:1643 mils
+
+DTR1_1    Signal Layers Only  Length:1078 mils
+
+DTS.+48V    Signal Layers Only  Length:4903 mils
+
+DTS.0V    Signal Layers Only  Length:4601 mils
+
+DTXD_1    Signal Layers Only  Length:1501 mils
+
+DX0_10    Signal Layers Only  Length:1141 mils
+
+DX1_10    Signal Layers Only  Length:602 mils
+
+ECRSDV_1    Signal Layers Only  Length:1361 mils
+
+EECS_7    Signal Layers Only  Length:478 mils
+
+EEDATA_7    Signal Layers Only  Length:486 mils
+
+EESK_7    Signal Layers Only  Length:374 mils
+
+EIRQ_1    Signal Layers Only  Length:2103 mils
+
+EMDC_1    Signal Layers Only  Length:1184 mils
+
+EMDIO_1    Signal Layers Only  Length:1245 mils
+
+EREFCK2_8    Signal Layers Only  Length:891 mils
+
+EREFCK_1    Signal Layers Only  Length:282 mils
+
+ERX0_1    Signal Layers Only  Length:982 mils
+
+ERX1_1    Signal Layers Only  Length:1005 mils
+
+ERXER_1    Signal Layers Only  Length:1359 mils
+
+ETH.RDM0_8    Signal Layers Only  Length:1145 mils
+
+ETH.RDP0_8    Signal Layers Only  Length:1226 mils
+
+ETH.TDM0_8    Signal Layers Only  Length:1311 mils
+
+ETH.TDP0_8    Signal Layers Only  Length:1400 mils
+
+ETX0_1    Signal Layers Only  Length:1064 mils
+
+ETX1_1    Signal Layers Only  Length:1064 mils
+
+ETXEN_1    Signal Layers Only  Length:1064 mils
+
+FC\S\_1    Signal Layers Only  Length:1685 mils
+
+FGND    Signal Layers Only  Length:20815 mils
+
+FSA0_10    Signal Layers Only  Length:634 mils
+
+FSA1_10    Signal Layers Only  Length:1181 mils
+
+FSB0_10    Signal Layers Only  Length:587 mils
+
+FSB1_10    Signal Layers Only  Length:1089 mils
+
+FSC0_10    Signal Layers Only  Length:879 mils
+
+FSC1_10    Signal Layers Only  Length:1478 mils
+
+GND    Signal Layers Only  Length:48492 mils
+
+I\N\T\0\_10    Signal Layers Only  Length:611 mils
+
+I\N\T\1\_10    Signal Layers Only  Length:611 mils
+
+I\N\T\3\_10    Signal Layers Only  Length:619 mils
+
+I\O\S\T\R\_10    Signal Layers Only  Length:1354 mils
+
+L0_10    Signal Layers Only  Length:547 mils
+
+L1_10    Signal Layers Only  Length:436 mils
+
+LED0A_10    Signal Layers Only  Length:1092 mils
+
+LED0B_10    Signal Layers Only  Length:1142 mils
+
+LED1A_10    Signal Layers Only  Length:498 mils
+
+LED1B_10    Signal Layers Only  Length:514 mils
+
+MCLK0_10    Signal Layers Only  Length:970 mils
+
+MCLK1_10    Signal Layers Only  Length:1039 mils
+
+MISO_1    Signal Layers Only  Length:1874 mils
+
+MOSI_1    Signal Layers Only  Length:1409 mils
+
+NetC1200_1    Signal Layers Only  Length:223 mils
+
+NetC1200_2    Signal Layers Only  Length:123 mils
+
+NetC1453_1    Signal Layers Only  Length:134 mils
+
+NetC248_2    Signal Layers Only  Length:694 mils
+
+NetC260_2    Signal Layers Only  Length:65 mils
+
+NetD1001_1    Signal Layers Only  Length:77 mils
+
+NetD1500_2    Signal Layers Only  Length:130 mils
+
+NetD1503_2    Signal Layers Only  Length:140 mils
+
+NetD200_2    Signal Layers Only  Length:99 mils
+
+NetD201_2    Signal Layers Only  Length:99 mils
+
+NetD252_1    Signal Layers Only  Length:402 mils
+
+NetD253_1    Signal Layers Only  Length:2032 mils
+
+NetD255_4    Signal Layers Only  Length:277 mils
+
+NetD259_2    Signal Layers Only  Length:226 mils
+
+NetF1500_1    Signal Layers Only  Length:160 mils
+
+NetF1501_1    Signal Layers Only  Length:160 mils
+
+NetF1502_1    Signal Layers Only  Length:160 mils
+
+NetF1503_1    Signal Layers Only  Length:160 mils
+
+NetJ1201_1    Signal Layers Only  Length:517 mils
+
+NetJ1201_2    Signal Layers Only  Length:291 mils
+
+NetJ1500_11    Signal Layers Only  Length:2996 mils
+
+NetJ1500_9    Signal Layers Only  Length:2544 mils
+
+NetJ1501_11    Signal Layers Only  Length:1952 mils
+
+NetJ1501_9    Signal Layers Only  Length:2327 mils
+
+NetJ201_1    Signal Layers Only  Length:837 mils
+
+NetJ201_3    Signal Layers Only  Length:691 mils
+
+NetJP1500_1    Signal Layers Only  Length:687 mils
+
+NetJP1500_3    Signal Layers Only  Length:684 mils
+
+NetJP202_5    Signal Layers Only  Length:298 mils
+
+NetJP202_6    Signal Layers Only  Length:318 mils
+
+NetL1400_2    Signal Layers Only  Length:160 mils
+
+NetL200_2    Signal Layers Only  Length:326 mils
+
+NetL200_3    Signal Layers Only  Length:326 mils
+
+NetL201_2    Signal Layers Only  Length:451 mils
+
+NetL202_1    Signal Layers Only  Length:485 mils
+
+NetL203_2    Signal Layers Only  Length:688 mils
+
+NetL205_2    Signal Layers Only  Length:476 mils
+
+NetL300_2    Signal Layers Only  Length:296 mils
+
+NetOSC1400_3    Signal Layers Only  Length:162 mils
+
+NetOSC300_3    Signal Layers Only  Length:224 mils
+
+NetR1000_2    Signal Layers Only  Length:109 mils
+
+NetR1001_2    Signal Layers Only  Length:180 mils
+
+NetR1004_2    Signal Layers Only  Length:65 mils
+
+NetR1005_2    Signal Layers Only  Length:65 mils
+
+NetR106_2    Signal Layers Only  Length:181 mils
+
+NetR1105_2    Signal Layers Only  Length:60 mils
+
+NetR1224_2    Signal Layers Only  Length:654 mils
+
+NetR1452_1    Signal Layers Only  Length:127 mils
+
+NetR1454_1    Signal Layers Only  Length:1959 mils
+
+NetR1455_1    Signal Layers Only  Length:1699 mils
+
+NetR1500_2    Signal Layers Only  Length:155 mils
+
+NetR1503_2    Signal Layers Only  Length:155 mils
+
+NetR201_1    Signal Layers Only  Length:189 mils
+
+NetR202_2    Signal Layers Only  Length:890 mils
+
+NetR203_1    Signal Layers Only  Length:165 mils
+
+NetR240_2    Signal Layers Only  Length:291 mils
+
+NetR241_2    Signal Layers Only  Length:234 mils
+
+NetR242_2    Signal Layers Only  Length:136 mils
+
+NetR243_2    Signal Layers Only  Length:169 mils
+
+NetR245_1    Signal Layers Only  Length:203 mils
+
+NetR247_1    Signal Layers Only  Length:85 mils
+
+NetR248_1    Signal Layers Only  Length:65 mils
+
+NetR249_2    Signal Layers Only  Length:1085 mils
+
+NetR256_1    Signal Layers Only  Length:190 mils
+
+NetR506_1    Signal Layers Only  Length:207 mils
+
+NetR507_1    Signal Layers Only  Length:244 mils
+
+NetR508_1    Signal Layers Only  Length:131 mils
+
+NetR509_1    Signal Layers Only  Length:123 mils
+
+NetR510_1    Signal Layers Only  Length:208 mils
+
+NetR514_1    Signal Layers Only  Length:298 mils
+
+NetR515_1    Signal Layers Only  Length:126 mils
+
+NetR516_1    Signal Layers Only  Length:124 mils
+
+NetS200_1    Signal Layers Only  Length:2374 mils
+
+NetT1500_3    Signal Layers Only  Length:100 mils
+
+NetT1500_5    Signal Layers Only  Length:565 mils
+
+NetT1500_8    Signal Layers Only  Length:487 mils
+
+NetT1501_3    Signal Layers Only  Length:100 mils
+
+NetT1501_5    Signal Layers Only  Length:554 mils
+
+NetT1501_8    Signal Layers Only  Length:478 mils
+
+NetT240_8    Signal Layers Only  Length:385 mils
+
+NetU1000_105    Signal Layers Only  Length:366 mils
+
+NetU1000_106    Signal Layers Only  Length:202 mils
+
+NetU1000_107    Signal Layers Only  Length:328 mils
+
+NetU1000_108    Signal Layers Only  Length:193 mils
+
+NetU1000_109    Signal Layers Only  Length:319 mils
+
+NetU1000_113    Signal Layers Only  Length:321 mils
+
+NetU1000_114    Signal Layers Only  Length:304 mils
+
+NetU1000_168    Signal Layers Only  Length:274 mils
+
+NetU1000_170    Signal Layers Only  Length:138 mils
+
+NetU1000_171    Signal Layers Only  Length:273 mils
+
+NetU1100_47    Signal Layers Only  Length:144 mils
+
+NetU1200_1    Signal Layers Only  Length:141 mils
+
+NetU1200_13    Signal Layers Only  Length:1619 mils
+
+NetU1200_14    Signal Layers Only  Length:1699 mils
+
+NetU1200_2    Signal Layers Only  Length:174 mils
+
+NetU1200_3    Signal Layers Only  Length:169 mils
+
+NetU1200_6    Signal Layers Only  Length:87 mils
+
+NetU1201_30    Signal Layers Only  Length:482 mils
+
+NetU1201_4    Signal Layers Only  Length:471 mils
+
+NetU1201_5    Signal Layers Only  Length:74 mils
+
+NetU1201_6    Signal Layers Only  Length:253 mils
+
+NetU1201_7    Signal Layers Only  Length:186 mils
+
+NetU1201_8    Signal Layers Only  Length:129 mils
+
+NetU1202_4    Signal Layers Only  Length:267 mils
+
+NetU1400_11    Signal Layers Only  Length:278 mils
+
+NetU1400_12    Signal Layers Only  Length:136 mils
+
+NetU1400_13    Signal Layers Only  Length:136 mils
+
+NetU1400_31    Signal Layers Only  Length:115 mils
+
+NetU1400_36    Signal Layers Only  Length:143 mils
+
+NetU1400_47    Signal Layers Only  Length:143 mils
+
+NetU1400_48    Signal Layers Only  Length:70 mils
+
+NetU1501_25    Signal Layers Only  Length:88 mils
+
+NetU1501_26    Signal Layers Only  Length:85 mils
+
+NetU1502_25    Signal Layers Only  Length:88 mils
+
+NetU1502_26    Signal Layers Only  Length:85 mils
+
+NetU201_3    Signal Layers Only  Length:130 mils
+
+NetU202_7    Signal Layers Only  Length:310 mils
+
+NetU240_12    Signal Layers Only  Length:1245 mils
+
+NetU240_13    Signal Layers Only  Length:240 mils
+
+NetU240_14    Signal Layers Only  Length:141 mils
+
+NetU240_15    Signal Layers Only  Length:71 mils
+
+NetU240_9    Signal Layers Only  Length:159 mils
+
+NetU241_1    Signal Layers Only  Length:448 mils
+
+NetU241_2    Signal Layers Only  Length:212 mils
+
+NetU500_131    Signal Layers Only  Length:134 mils
+
+NetU500_132    Signal Layers Only  Length:160 mils
+
+NetU500_133    Signal Layers Only  Length:197 mils
+
+NetU500_23    Signal Layers Only  Length:123 mils
+
+NetU500_25    Signal Layers Only  Length:125 mils
+
+NetVR1203_1    Signal Layers Only  Length:2416 mils
+
+PB0_4    Signal Layers Only  Length:2115 mils
+
+PGND    Signal Layers Only  Length:8101 mils
+
+PLLRCA_4    Signal Layers Only  Length:334 mils
+
+PLLRCB_4    Signal Layers Only  Length:256 mils
+
+P\C\S\0_1    Signal Layers Only  Length:1502 mils
+
+P\C\S\1_1    Signal Layers Only  Length:0 mils
+
+R/W\_10    Signal Layers Only  Length:1462 mils
+
+R0PS_10    Signal Layers Only  Length:481 mils
+
+R0_10    Signal Layers Only  Length:815 mils
+
+R1PS_10    Signal Layers Only  Length:481 mils
+
+R1_10    Signal Layers Only  Length:818 mils
+
+RTS1_1    Signal Layers Only  Length:1697 mils
+
+RXD1_1    Signal Layers Only  Length:1457 mils
+
+R\D\_1    Signal Layers Only  Length:3162 mils
+
+R\E\S\E\T\_1    Signal Layers Only  Length:6899 mils
+
+SDA10_1    Signal Layers Only  Length:3369 mils
+
+SDB\S\1_1    Signal Layers Only  Length:1921 mils
+
+SDB\S\3_1    Signal Layers Only  Length:2073 mils
+
+SDCKE_1    Signal Layers Only  Length:3037 mils
+
+SDCLK_1    Signal Layers Only  Length:3031 mils
+
+SDC\A\S\_1    Signal Layers Only  Length:2704 mils
+
+SDC\S\_1    Signal Layers Only  Length:2579 mils
+
+SDR\A\S\_1    Signal Layers Only  Length:2895 mils
+
+SDW\E\_1    Signal Layers Only  Length:2711 mils
+
+SMC\E\_1    Signal Layers Only  Length:4073 mils
+
+SMO\E\_1    Signal Layers Only  Length:4319 mils
+
+SMRDY_1    Signal Layers Only  Length:4165 mils
+
+SMW\E\_1    Signal Layers Only  Length:4138 mils
+
+SPCK_1    Signal Layers Only  Length:1475 mils
+
+T0PS_10    Signal Layers Only  Length:672 mils
+
+T0_10    Signal Layers Only  Length:444 mils
+
+T1PS_10    Signal Layers Only  Length:672 mils
+
+T1_10    Signal Layers Only  Length:444 mils
+
+TCK_10    Signal Layers Only  Length:659 mils
+
+TDI_10    Signal Layers Only  Length:812 mils
+
+TDO_10    Signal Layers Only  Length:921 mils
+
+TMS_10    Signal Layers Only  Length:750 mils
+
+TST_FS_10    Signal Layers Only  Length:0 mils
+
+TST_M/S\_10    Signal Layers Only  Length:0 mils
+
+TWCK_1    Signal Layers Only  Length:0 mils
+
+TWD_1    Signal Layers Only  Length:0 mils
+
+TXD1_1    Signal Layers Only  Length:1299 mils
+
+USB.DM_7    Signal Layers Only  Length:646 mils
+
+USB.DP_7    Signal Layers Only  Length:742 mils
+
+V-SW    Signal Layers Only  Length:1029 mils
+
+VCC    Signal Layers Only  Length:22891 mils
+
+VCCA    Signal Layers Only  Length:1254 mils
+
+VCCA1_8    Signal Layers Only  Length:511 mils
+
+VCCA2_8    Signal Layers Only  Length:337 mils
+
+V_ARM    Signal Layers Only  Length:7883 mils
+
+V_DSP    Signal Layers Only  Length:7056 mils
+
+W\A\I\T\_1    Signal Layers Only  Length:2138 mils
+
+W\R\_1    Signal Layers Only  Length:2575 mils
+
+XF_9    Signal Layers Only  Length:0 mils
+
+XIN32_4    Signal Layers Only  Length:516 mils
+
+XIN_4    Signal Layers Only  Length:538 mils
+
+XOUT32_4    Signal Layers Only  Length:630 mils
+
+XOUT_4    Signal Layers Only  Length:552 mils
+
+XTIN_7    Signal Layers Only  Length:429 mils
+
+XTOUT_7    Signal Layers Only  Length:408 mils
+

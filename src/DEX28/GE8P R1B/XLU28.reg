@@ -1,0 +1,119 @@
+[Directory]
+ARM MCU.Sch=Sch
+Power Supply.Sch=Sch
+Power over Ethernet.Sch=Sch
+MCU Ethernet.Sch=Sch
+Preview DEX28-GE8P R1A.PPC=PCBPrint
+MCU Memory.Sch=Sch
+DASL Pair 1.Sch=Sch
+DSP Core 1.Sch=Sch
+DASL Pair 2.Sch=Sch
+DASL Pair 3.Sch=Sch
+DASL Pair 4.Sch=Sch
+DSP Core 2.Sch=Sch
+DSP Core 3.Sch=Sch
+DSP Core 4.Sch=Sch
+DSP Control.Sch=Sch
+MCU Peripherals.Sch=Sch
+DEX28-GE8P R1B.Bom=Text
+DEX28-GE8P R1B.Sch=Sch
+DEX28-GE8P R1B.REP=Text
+DEX28-GE8P R1B.Pcb=PCB
+DEX28-GE8P R1B.ERC=Text
+DEX28-GE8P R1B.DRC=Text
+DEX28-GE8P R1B.cfg=Text
+CAM for DEX28-GE8P R1B.cam=CAMManager
+DEX28-GE8P R1B.XLS=SPREAD
+Preview DEX28-GE8P R1B.PPC=PCBPrint
+DEX28-GE8P R1B.XTR=Text
+[ARM MCU.Sch]
+Editor Kind=Sch
+[Power Supply.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Power over Ethernet.Sch]
+Editor Kind=Sch
+[MCU Ethernet.Sch]
+Editor Kind=Sch
+[Preview DEX28-GE8P R1A.PPC]
+Editor Kind=PCBPrint
+[MCU Memory.Sch]
+Editor Kind=Sch
+[DASL Pair 1.Sch]
+Editor Kind=Sch
+[DSP Core 1.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DASL Pair 2.Sch]
+Editor Kind=Sch
+[DASL Pair 3.Sch]
+Editor Kind=Sch
+[DASL Pair 4.Sch]
+Editor Kind=Sch
+[DSP Core 2.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core 3.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core 4.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Control.Sch]
+Editor Kind=Sch
+[MCU Peripherals.Sch]
+Editor Kind=Sch
+[DEX28-GE8P R1B.Bom]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE8P R1B.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DEX28-GE8P R1B.REP]
+Editor Kind=Text
+[DEX28-GE8P R1B.Pcb]
+Editor Kind=PCB
+[DEX28-GE8P R1B.ERC]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE8P R1B.DRC]
+Editor Kind=Text
+[DEX28-GE8P R1B.cfg]
+Editor Kind=Text
+Attributes=131072
+[CAM for DEX28-GE8P R1B.cam]
+Editor Kind=CAMManager
+[DEX28-GE8P R1B.XLS]
+Editor Kind=SPREAD
+[Preview DEX28-GE8P R1B.PPC]
+Editor Kind=PCBPrint
+[DEX28-GE8P R1B.XTR]
+Editor Kind=Text
+Attributes=131072
+[Power Supply.Sch Childlist]
+ChildCount=1
+Child1=Power over Ethernet.Sch
+[DSP Core 1.Sch Childlist]
+ChildCount=1
+Child1=DASL Pair 1.Sch
+[DSP Core 2.Sch Childlist]
+ChildCount=1
+Child1=DASL Pair 2.Sch
+[DSP Core 3.Sch Childlist]
+ChildCount=1
+Child1=DASL Pair 3.Sch
+[DSP Core 4.Sch Childlist]
+ChildCount=1
+Child1=DASL Pair 4.Sch
+[DEX28-GE8P R1B.Sch Childlist]
+ChildCount=10
+Child1=Power Supply.Sch
+Child2=ARM MCU.Sch
+Child3=MCU Memory.Sch
+Child4=MCU Peripherals.Sch
+Child5=MCU Ethernet.Sch
+Child6=DSP Control.Sch
+Child7=DSP Core 1.Sch
+Child8=DSP Core 2.Sch
+Child9=DSP Core 3.Sch
+Child10=DSP Core 4.Sch

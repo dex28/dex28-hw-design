@@ -1,0 +1,53 @@
+[Directory]
+Power Supply.Sch=Sch
+DSP Time Base.Sch=Sch
+PXB-GE2P R1A.ERC=Text
+PXB-GE2P R1A.cfg=Text
+PXB-GE2P R1A.DRC=Text
+PXB-GE2P R1A.Pcb=PCB
+PXB-GE2P R1A.REP=Text
+PXB-GE2P R1A.Sch=Sch
+DSP Core.Sch=Sch
+DASL Pair.Sch=Sch
+CAM Outputs for PXB-GE2P R1A.cam=CAMManager
+PXB-GE2P R1A.Bom=Text
+Preview PXB-GE2P R1A.PPC=PCBPrint
+[Power Supply.Sch]
+Editor Kind=Sch
+[DSP Time Base.Sch]
+Editor Kind=Sch
+[PXB-GE2P R1A.ERC]
+Editor Kind=Text
+Attributes=131072
+[PXB-GE2P R1A.cfg]
+Editor Kind=Text
+Attributes=131072
+[PXB-GE2P R1A.DRC]
+Editor Kind=Text
+[PXB-GE2P R1A.Pcb]
+Editor Kind=PCB
+[PXB-GE2P R1A.REP]
+Editor Kind=Text
+[PXB-GE2P R1A.Sch]
+Editor Kind=Sch
+Attributes=131072
+[PXB-GE2P R1A.Sch Childlist]
+ChildCount=2
+Child1=Power Supply.Sch
+Child2=DSP Core.Sch
+[DSP Core.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core.Sch Childlist]
+ChildCount=2
+Child1=DASL Pair.Sch
+Child2=DSP Time Base.Sch
+[DASL Pair.Sch]
+Editor Kind=Sch
+[CAM Outputs for PXB-GE2P R1A.cam]
+Editor Kind=CAMManager
+[PXB-GE2P R1A.Bom]
+Editor Kind=Text
+Attributes=131072
+[Preview PXB-GE2P R1A.PPC]
+Editor Kind=PCBPrint

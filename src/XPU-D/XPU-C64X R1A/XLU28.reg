@@ -1,0 +1,55 @@
+[Directory]
+64x Control.Sch=Sch
+64x Power.Sch=Sch
+XPU-C64X R1A.Pcb=PCB
+XPU-C64X R1A.Sch=Sch
+64x PCI and McBSP.Sch=Sch
+XPU-C64X R1A.ERC=Text
+XPU-C64X R1A.cfg=Text
+CAM for XPU-C64X R1A.cam=CAMManager
+XPU-C64X R1A.REP=Text
+Preview XPU-C64X R1A.PPC=PCBPrint
+XPU-C64X R1A.DRC=Text
+README CAM XPU-C64X R1A.txt=Text
+XPU-C64X R1A.XLS=SPREAD
+XPU-C64X R1A.XTR=Text
+CAM for XPU-C64X R1A=Folder
+[64x Control.Sch]
+Editor Kind=Sch
+[64x Power.Sch]
+Editor Kind=Sch
+[XPU-C64X R1A.Pcb]
+Editor Kind=PCB
+[XPU-C64X R1A.Sch]
+Editor Kind=Sch
+Attributes=131072
+[64x PCI and McBSP.Sch]
+Editor Kind=Sch
+[XPU-C64X R1A.ERC]
+Editor Kind=Text
+Attributes=131072
+[XPU-C64X R1A.cfg]
+Editor Kind=Text
+Attributes=131072
+[CAM for XPU-C64X R1A.cam]
+Editor Kind=CAMManager
+[XPU-C64X R1A.REP]
+Editor Kind=Text
+[Preview XPU-C64X R1A.PPC]
+Editor Kind=PCBPrint
+[XPU-C64X R1A.DRC]
+Editor Kind=Text
+[README CAM XPU-C64X R1A.txt]
+Editor Kind=Text
+[XPU-C64X R1A.XLS]
+Editor Kind=SPREAD
+[XPU-C64X R1A.XTR]
+Editor Kind=Text
+Attributes=131072
+[CAM for XPU-C64X R1A]
+Editor Kind=Folder
+[XPU-C64X R1A.Sch Childlist]
+ChildCount=3
+Child1=64x Control.Sch
+Child2=64x Power.Sch
+Child3=64x PCI and McBSP.Sch

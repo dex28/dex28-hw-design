@@ -1,0 +1,82 @@
+[Directory]
+Ethernet PS.Sch=Sch
+Ethernet RJ45.Sch=Sch
+LOM-ARM9.Sch=Sch
+MCU AC97.Sch=Sch
+MCU Ethernet DM9161E.Sch=Sch
+MCU Ethernet.Sch=Sch
+MCU Memory 2.Sch=Sch
+MCU USB.Sch=Sch
+PoE Buck.Sch=Sch
+PoE Copy.Sch=Sch
+[Ethernet PS.Sch]
+Editor Kind=Sch
+[Ethernet RJ45.Sch]
+Editor Kind=Sch
+[LOM-ARM9.Sch]
+Editor Kind=Sch
+Attributes=131072
+[LOM-ARM9.Sch Childlist]
+ChildCount=43
+Child1=_139
+Child2=_140
+Child3=_141
+Child4=_142
+Child5=_143
+Child6=_144
+Child7=_145
+Child8=_146
+Child9=_147
+Child10=_148
+Child11=_149
+Child12=_150
+Child13=_151
+Child14=_152
+Child15=_153
+Child16=_154
+Child17=_262
+Child18=_263
+Child19=_264
+Child20=_265
+Child21=_276
+Child22=_218
+Child23=_219
+Child24=_243
+Child25=_248
+Child26=_68
+Child27=_69
+Child28=_70
+Child29=_71
+Child30=_72
+Child31=_73
+Child32=_74
+Child33=_75
+Child34=_68
+Child35=_69
+Child36=_70
+Child37=_71
+Child38=_72
+Child39=_75
+Child40=_63
+Child41=_64
+Child42=_139
+Child43=_139
+[MCU AC97.Sch]
+Editor Kind=Sch
+[MCU Ethernet DM9161E.Sch]
+Editor Kind=Sch
+[MCU Ethernet.Sch]
+Editor Kind=Sch
+Attributes=131072
+[MCU Ethernet.Sch Childlist]
+ChildCount=2
+Child1=Ethernet RJ45.Sch
+Child2=Ethernet PS.Sch
+[MCU Memory 2.Sch]
+Editor Kind=Sch
+[MCU USB.Sch]
+Editor Kind=Sch
+[PoE Buck.Sch]
+Editor Kind=Sch
+[PoE Copy.Sch]
+Editor Kind=Sch

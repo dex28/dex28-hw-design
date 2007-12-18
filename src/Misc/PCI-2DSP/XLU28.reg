@@ -1,0 +1,30 @@
+[Directory]
+PCI-HPI8.Sch=Sch
+Power Supply.Sch=Sch
+PCI-GE4P.Pcb=PCB
+PCI-GE4P.Sch=Sch
+DSP Core 1.Sch=Sch
+DSP Core 2.Sch=Sch
+PCI-GE4P.ERC=Text
+[PCI-HPI8.Sch]
+Editor Kind=Sch
+[Power Supply.Sch]
+Editor Kind=Sch
+[PCI-GE4P.Pcb]
+Editor Kind=PCB
+[PCI-GE4P.Sch]
+Editor Kind=Sch
+Attributes=131072
+[PCI-GE4P.Sch Childlist]
+ChildCount=4
+Child1=Power Supply.Sch
+Child2=PCI-HPI8.Sch
+Child3=DSP Core 1.Sch
+Child4=DSP Core 2.Sch
+[DSP Core 1.Sch]
+Editor Kind=Sch
+[DSP Core 2.Sch]
+Editor Kind=Sch
+[PCI-GE4P.ERC]
+Editor Kind=Text
+Attributes=131072

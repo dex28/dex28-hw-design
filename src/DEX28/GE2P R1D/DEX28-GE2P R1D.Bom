@@ -1,0 +1,326 @@
+Bill of Material for DEX28-GE2P R1C.Bom
+
+Used Part Type                       Designator Footprint       Description                                              
+==== =============================== ========== =============== ======================================================== 
+88   0.1uF                           C101 C102  0603W           Capacitor                                                
+                                     C258 C263                                                                           
+                                     C300 C501                                                                           
+                                     C502 C503                                                                           
+                                     C504 C505                                                                           
+                                     C506 C507                                                                           
+                                     C508 C509                                                                           
+                                     C510 C511                                                                           
+                                     C512 C1001                                                                          
+                                     C1004                                                                               
+                                     C1005                                                                               
+                                     C1006                                                                               
+                                     C1007                                                                               
+                                     C1008                                                                               
+                                     C1009                                                                               
+                                     C1010                                                                               
+                                     C1011                                                                               
+                                     C1012                                                                               
+                                     C1013                                                                               
+                                     C1014                                                                               
+                                     C1015                                                                               
+                                     C1016                                                                               
+                                     C1017                                                                               
+                                     C1018                                                                               
+                                     C1019                                                                               
+                                     C1020                                                                               
+                                     C1021                                                                               
+                                     C1022                                                                               
+                                     C1102                                                                               
+                                     C1103                                                                               
+                                     C1104                                                                               
+                                     C1105                                                                               
+                                     C1106                                                                               
+                                     C1107                                                                               
+                                     C1108                                                                               
+                                     C1109                                                                               
+                                     C1110                                                                               
+                                     C1111                                                                               
+                                     C1112                                                                               
+                                     C1113                                                                               
+                                     C1114                                                                               
+                                     C1115                                                                               
+                                     C1116                                                                               
+                                     C1117                                                                               
+                                     C1121                                                                               
+                                     C1123                                                                               
+                                     C1124                                                                               
+                                     C1220                                                                               
+                                     C1221                                                                               
+                                     C1222                                                                               
+                                     C1226                                                                               
+                                     C1231                                                                               
+                                     C1401                                                                               
+                                     C1403                                                                               
+                                     C1406                                                                               
+                                     C1408                                                                               
+                                     C1409                                                                               
+                                     C1410                                                                               
+                                     C1411                                                                               
+                                     C1412                                                                               
+                                     C1413                                                                               
+                                     C1415                                                                               
+                                     C1416                                                                               
+                                     C1450                                                                               
+                                     C1451                                                                               
+                                     C1452                                                                               
+                                     C1453                                                                               
+                                     C1501                                                                               
+                                     C1504                                                                               
+                                     C1506                                                                               
+                                     C1507                                                                               
+                                     C1508                                                                               
+                                     C1509                                                                               
+                                     C1512                                                                               
+                                     C1513 CT1                                                                           
+                                     CT2 CT3                                                                             
+                                     CT4                                                                                 
+2    0.1uF/100V                      C240 C262  1210T           Capacitor                                                
+1    0.22uF                          C246       0805T           Capacitor                                                
+1    0.33R                           R250       1210T                                                                    
+1    1.5k                            R1223      0603W           Resistor                                                 
+1    1.27k                           R1004      0603W                                                                    
+1    1.96k                           R1005      0603W                                                                    
+1    1k                              R511       0603DUAL        Dual Pullup / Pulldown resistor                          
+16   1k                              R105 R120  0603W           Pullup resistor                                          
+                                     R248 R506                                                                           
+                                     R507 R508                                                                           
+                                     R509 R510                                                                           
+                                     R514 R515                                                                           
+                                     R516 R1010                                                                          
+                                     R1011                                                                               
+                                     R1012                                                                               
+                                     R1106                                                                               
+                                     R1506                                                                               
+1    1k                              R242       0805T                                                                    
+4    1nF                             C249 C261  0603W           Capacitor                                                
+                                     C1205                                                                               
+                                     C1206                                                                               
+7    1nF/2kV                         C230 C231  1812T           Capacitor                                                
+                                     C232 C233                                                                           
+                                     C234 C235                                                                           
+                                     C236                                                                                
+9    1uF                             C200 C205  0805T           Capacitor                                                
+                                     C206 C259                                                                           
+                                     C1200                                                                               
+                                     C1201                                                                               
+                                     C1202                                                                               
+                                     C1203                                                                               
+                                     C1204                                                                               
+4    1uF/100V                        C1502      1210T           Capacitor                                                
+                                     C1505                                                                               
+                                     C1516                                                                               
+                                     C1517                                                                               
+2    2.2k                            R1227      0603W           Pullup resistor                                          
+                                     R1402                                                                               
+1    2.2nF/3kV=                      C255       VAR-S75         Capacitor                                                
+1    2.2uF/25V                       C248       1206T           Capacitor                                                
+4    2.2uF/100V                      C243 C244  1812T           Capacitor                                                
+                                     C245 C264                                                                           
+1    4.7k                            R1224      0603W           Resistor                                                 
+2    4.7nF                           C260 C1028 0603W           Capacitor                                                
+2    4.7nF/100V                      C241 C242  0805T           Capacitor                                                
+2    4.7uF                           C1500      0805T           Capacitor                                                
+                                     C1503                                                                               
+1    5.6nF                           C1023      0603W           Capacitor                                                
+1    6.8k                            R1403      0603W           Resistor                                                 
+1    10MQ100                         D259       SMA             Schottky Diode                                           
+1    10R                             R252       0603W                                                                    
+20   10k                             R100 R101  0603W           Resistor                                                 
+                                     R102 R103                                                                           
+                                     R104 R253                                                                           
+                                     R1006                                                                               
+                                     R1007                                                                               
+                                     R1008                                                                               
+                                     R1009                                                                               
+                                     R1121                                                                               
+                                     R1122                                                                               
+                                     R1123                                                                               
+                                     R1225                                                                               
+                                     R1226                                                                               
+                                     R1400                                                                               
+                                     R1401                                                                               
+                                     R1404                                                                               
+                                     R1405                                                                               
+                                     R1406                                                                               
+5    10nF                            C513 C1031 0603W           Capacitor                                                
+                                     C1404                                                                               
+                                     C1407                                                                               
+                                     C1414                                                                               
+4    10pF                            C1024      0603W           Capacitor                                                
+                                     C1025                                                                               
+                                     C1026                                                                               
+                                     C1030                                                                               
+12   10uF                            C201 C202  1206T           Capacitor                                                
+                                     C203 C251                                                                           
+                                     C252 C253                                                                           
+                                     C254 C1081                                                                          
+                                     C1082                                                                               
+                                     C1510                                                                               
+                                     C1511                                                                               
+                                     C1514                                                                               
+24   10uF                            C215 C216  3216T           Capacitor                                                
+                                     C217 C218                                                                           
+                                     C219 C220                                                                           
+                                     C221 C222                                                                           
+                                     C223 C224                                                                           
+                                     C225 C226                                                                           
+                                     C302 C500                                                                           
+                                     C514 C515                                                                           
+                                     C516 C517                                                                           
+                                     C1223                                                                               
+                                     C1230                                                                               
+                                     C1232                                                                               
+                                     C1400                                                                               
+                                     C1402                                                                               
+                                     C1405                                                                               
+1    11k                             R207       0603W           Resistor                                                 
+1    12.1k                           R246       0603W                                                                    
+1    12CWQ03                         D254       DPAK            D-Pak Schottky Diode                                     
+1    13.3k                           R204       0603W           Resistor                                                 
+1    14.3k                           R255       0603W                                                                    
+1    15pF                            C1101      0603W           Capacitor                                                
+1    20R                             R247       0805T                                                                    
+1    22uF, 63V=                      C204       D6.3            Capacitor                                                
+1    24.3k                           R254       0603W                                                                    
+1    24.9k                           R243       0805T                                                                    
+2    27R                             R1221      0603W           Resistor                                                 
+                                     R1222                                                                               
+1    27nF                            C250       0603W           Capacitor                                                
+2    27pF                            C1224      0603W           Capacitor                                                
+                                     C1225                                                                               
+1    30k                             R205       0603W           Resistor                                                 
+1    33.2k                           R240       0805T                                                                    
+2    33R                             R512 R513  0603DUAL        Dual Pullup / Pulldown resistor                          
+13   33R                             R106 R301  0603W                                                                    
+                                     R302 R501                                                                           
+                                     R502 R503                                                                           
+                                     R504 R505                                                                           
+                                     R1084                                                                               
+                                     R1085                                                                               
+                                     R1086                                                                               
+                                     R1407                                                                               
+                                     R1408                                                                               
+2    33nF                            C1227      0603W           Capacitor                                                
+                                     C1228                                                                               
+1    40.2k                           R202       0603W           Resistor                                                 
+3    43k                             R201 R203  0603W                                                                    
+                                     R1000                                                                               
+1    47nF                            C247       0603W           Capacitor                                                
+4    49.9R                           R1450      0603W           Resistor                                                 
+                                     R1451                                                                               
+                                     R1452                                                                               
+                                     R1453                                                                               
+1    62R                             R1105      0603W                                                                    
+2    91R                             R1500      0603W                                                                    
+                                     R1503                                                                               
+1    100R                            R249       0603W                                                                    
+1    100uF, ESR=0.045                C257       6032            Capacitor                                                
+8    150R                            R251 R1021 0603W           Resistor                                                 
+                                     R1454                                                                               
+                                     R1455                                                                               
+                                     R1501                                                                               
+                                     R1502                                                                               
+                                     R1504                                                                               
+                                     R1505                                                                               
+1    160k                            R245       0805T                                                                    
+4    220uF/6.3V, ESR=0.36            C208 C209  D6.3            Capacitor                                                
+                                     C213 C214                                                                           
+4    470R                            R1001      0603W                                                                    
+                                     R1200                                                                               
+                                     R1202                                                                               
+                                     R1220                                                                               
+1    470pF                           C1029      0603W           Capacitor                                                
+1    470uF, ESR=0.16                 C256       D8              Capacitor                                                
+1    590R                            R256       0603W                                                                    
+1    590k                            R241       0805T                                                                    
+1    680pF                           C1027      0603W           Capacitor                                                
+1    ADM3202ARU                      U1200      TSSOP16         RS232 Transceiver                                        
+1    AT45DB161B-TC                   U1150      TSOP28          Data Flash                                               
+1    AT91RM9200-QI-002               U1000      PQFP208         Atmel ARM920T MCU                                        
+1    AT93C46A-10TI-2.7               U1202      TSSOP8          1k (64x16) 3-wire EEPROM                                 
+4    BAS216                          D200 D201  SOD110          Diode                                                    
+                                     D202 D252                                                                           
+3    BAT254                          D203 D1000 SOD110          Schottky Diode                                           
+                                     D1001                                                                               
+4    BZX284-C3V9                     D1500      SOD110          Zener Diode                                              
+                                     D1501                                                                               
+                                     D1503                                                                               
+                                     D1504                                                                               
+1    C1495-AL                        T240       EP13            PoE Transformer                                          
+1    C8317-04BFHSW0                  J1202      USB-B-TH        USB Type B Connector                                     
+1    CM200S32.768KDZFT               X1000      CM200S          Crystal                                                  
+1    CS10-18.432MABJTR               X1001      CS10            Crystal                                                  
+1    CSX750PBB16.384000              OSC300     CSX750          CITIZEN QUARTZ OSCILLATOR CSX-750FC                      
+1    CSX750PBB50.000000              OSC1400    CSX750          CITIZEN QUARTZ OSCILLATOR CSX-750FC                      
+1    Copyright                       M101       MBK_4                                                                    
+1    DEX28-GE2P-R1B PCB              M100       4LAYER-PCB                                                               
+1    DM9161E                         U1400      TQFP48          Fast Ethernet PHY Transceiver                            
+1    DS1834AU                        U204       USOP8           Dual EconoReset with Push Button                         
+1    Dialight 515-1061               M103       DIA515-1061                                                              
+1    EL17-21UBC                      D253       LED-0805                                                                 
+1    EL17-21USRC                     D1002      LED-0805                                                                 
+1    ELL-6SH1R0M                     L250       ELL6SH                                                                   
+2    ELL-6SH100M                     L203 L251  ELL6SH                                                                   
+1    FRJA-418                        J1201      FRJA-418        Connector                                                
+1    FT232BL                         U1201      TQFP32          USB RS232 FIFO                                           
+3    Fiducial                        M104 M105  FIDUCIAL-MARK                                                            
+                                     M106                                                                                
+1    HCM49-6.000MABJT                X1200      XTAL-HC49-SMT   Crystal                                                  
+2    HD01                            D210 D212  MiniDIP4        Diode Bridge                                             
+1    HDR1X3                          JP1000     HDR1X3                                                                   
+1    HDR1X6                          JTAG       HDR1X6          XILINX JTAG 6-pin Header                                 
+1    HDR2X2                          JP1500     HDR2X2          4-pin header jumper                                      
+1    HDR2X3                          JP202      HDR2X3          Header 2x3                                               
+1    J0026D21BNL                     J1400      RJ45_J0026D21   PulseJack RJ45 with integrated magnetics                 
+1    KLD-SMT2-0202-A                 J201       KLD-SMT2-0202-A                                                          
+1    LM5070MTC-50                    U240       TSSOP16         PoE PD Interface with PWM Controller                     
+1    LMV431ACM5                      D255       SOT23-5         1.24V Adjustible Shunt Regulator (SOT23-5)               
+1    LT1930ES5                       U201       SOT23-5         1A 1.2MHz Step-Up DC/DC Covnerter                        
+1    MBRS130L                        D204       SMB             Schottky Diode                                           
+2    MI0805K601R-00                  L202 L300  0805T           Inductor                                                 
+4    MMZ2012Y202B                    L1400      0805T           Inductor                                                 
+                                     L1401                                                                               
+                                     L1402                                                                               
+                                     L1403                                                                               
+2    MT48LC16M16A2P-75:D             U1101      TSOPII54        SDRAM                                                    
+                                     U1102                                                                               
+1    NLC453232T-1R0K                 L204       1812T                                                                    
+6    NLC453232T-330K                 L201 L205  1812T           Inductor                                                 
+                                     L1502                                                                               
+                                     L1503                                                                               
+                                     L1504                                                                               
+                                     L1505                                                                               
+3    PLM250S20                       L200 L1500 2020-CMC        Common Mode Choke                                        
+                                     L1501                                                                               
+1    PS2501L-1-H                     U241       SO4-OPTO        Optoisolator                                             
+2    RJHS-5081                       J1500      RJHS-5081       RJ45 unshielded w/ LED                                   
+                                     J1501                                                                               
+1    SKHHLQ                          S200       SKHHLQ          Keyboard switch 6×6 mm                                   
+2    SMAJ58A                         D251 D260  SMA             Zener Diode                                              
+3    SMAJ60CA                        D211 D1502 SMA                                                                      
+                                     D1505                                                                               
+1    SN74LVC1G07DBV                  U102       SOT23-5         Single Buffer/Driver with Open-Drain Output              
+1    SN74LVC1G14DBV                  U101       SOT23-5         Single Schmitt-Trigger Inverter                          
+1    Si4848DY                        Q240       SO8             N-Channel MOSFET SOIC 8                                  
+1    TC58DVM92A1FT                   U1151      TSSOP48         NAND Flash                                               
+1    TC58FVM6B2ATG-65                U1100      TSSOP48         Flash Memory                                             
+1    TMS320VC5410APGE160             U500       LQFP144         Fixed-Point 16-bit DSP                                   
+2    TP3406V                         U1501      LCC28           DASL Digital Adapter For Subscriber Loops                
+                                     U1502                                                                               
+1    TPS75201QPWP                    U202       HTSSOP20        Fast-transient response 2A Low-Dropout Voltage Regulator 
+1    TPS75218QPWP                    U203       HTSSOP20        Fast-transient response 2A Low-Dropout Voltage Regulator 
+2    UT21434A-TS                     T1500      UT21434A-TS     TP3406 1:1 Wet Transformer max 75 mA current             
+                                     T1501                                                                               
+2    VC060303A100                    VR1202     0603W           VDR (Varistor)                                           
+                                     VR1203                                                                              
+1    VC060305A150                    VR1204     0603W           VDR (Varistor)                                           
+1    XC9572XL-10VQ64C                U1500      VQFP64          XC95xxXL (CPLD) DSP - 2x DASL Interface                  
+4    miniSMDC014                     F1500      POLYSWMINI      Fuse                                                     
+                                     F1501                                                                               
+                                     F1502                                                                               
+                                     F1503                                                                               

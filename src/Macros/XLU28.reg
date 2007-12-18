@@ -1,0 +1,25 @@
+[Directory]
+Bottom Layers.bas=Text
+Normal Layers.bas=Text
+Top Layers.bas=Text
+InductorGeneratorProtelScript.bas=Text
+QFPfootprintGeneratorScript.bas=Text
+QFPfootprintGeneratorScript.txt=Text
+SmoothTrackSizeTransitionProtelScript.bas=Text
+SpiralGeneratorProtelScript.bas=Text
+[Bottom Layers.bas]
+Editor Kind=Text
+[Normal Layers.bas]
+Editor Kind=Text
+[Top Layers.bas]
+Editor Kind=Text
+[InductorGeneratorProtelScript.bas]
+Editor Kind=Text
+[QFPfootprintGeneratorScript.bas]
+Editor Kind=Text
+[QFPfootprintGeneratorScript.txt]
+Editor Kind=Text
+[SmoothTrackSizeTransitionProtelScript.bas]
+Editor Kind=Text
+[SpiralGeneratorProtelScript.bas]
+Editor Kind=Text

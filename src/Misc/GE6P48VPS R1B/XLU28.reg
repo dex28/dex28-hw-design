@@ -1,0 +1,38 @@
+[Directory]
+GE6P48VPS.Sch=Sch
+GE6P48VPS.cfg=Text
+GE6P48VPS.REP=Text
+GE6P48VPS.ERC=Text
+GE6P48VPS.Pcb=PCB
+48V Distribution.Sch=Sch
+GE6P48VPS.DRC=Text
+CAM Outputs for GE6P48VPS.cam=CAMManager
+GE6P48VPS.Bom=Text
+Preview GE6P48VPS.PPC=PCBPrint
+[GE6P48VPS.Sch]
+Editor Kind=Sch
+Attributes=131072
+[GE6P48VPS.Sch Childlist]
+ChildCount=1
+Child1=48V Distribution.Sch
+[GE6P48VPS.cfg]
+Editor Kind=Text
+Attributes=131072
+[GE6P48VPS.REP]
+Editor Kind=Text
+[GE6P48VPS.ERC]
+Editor Kind=Text
+Attributes=131072
+[GE6P48VPS.Pcb]
+Editor Kind=PCB
+[48V Distribution.Sch]
+Editor Kind=Sch
+[GE6P48VPS.DRC]
+Editor Kind=Text
+[CAM Outputs for GE6P48VPS.cam]
+Editor Kind=CAMManager
+[GE6P48VPS.Bom]
+Editor Kind=Text
+Attributes=131072
+[Preview GE6P48VPS.PPC]
+Editor Kind=PCBPrint

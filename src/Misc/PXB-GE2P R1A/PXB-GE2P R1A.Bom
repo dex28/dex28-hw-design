@@ -1,0 +1,122 @@
+Bill of Material for PXB-GE2P R1A.Bom
+
+Used Part Type                       Designator Footprint       Description                                              
+==== =============================== ========== =============== ======================================================== 
+26   0.1uF                           C101 C102  0603W           Capacitor                                                
+                                     C251 C300                                                                           
+                                     C301 C501                                                                           
+                                     C502 C503                                                                           
+                                     C504 C505                                                                           
+                                     C506 C507                                                                           
+                                     C508 C509                                                                           
+                                     C510 C511                                                                           
+                                     C512 C1211                                                                          
+                                     C1501                                                                               
+                                     C1504                                                                               
+                                     C1506                                                                               
+                                     C1507                                                                               
+                                     C1508                                                                               
+                                     C1509                                                                               
+                                     C1512                                                                               
+                                     C1513                                                                               
+1    0.1uF                           C258       0805T           Capacitor                                                
+1    0.1uF                           C250       1210            Capacitor                                                
+1    0.22uF                          C256       0603W           Capacitor                                                
+2    0.47uF/63V=                     C1502      2824            Capacitor                                                
+                                     C1505                                                                               
+1    1.01uH, DCR 0.0125, 3.4A        L251       SM-1            Inductor                                                 
+1    1A                              F1         FUSE-PICO       Fuse                                                     
+1    1k                              R511       0603DUAL        Dual Pullup / Pulldown resistor                          
+10   1k                              R305 R506  0603W           Pullup resistor                                          
+                                     R507 R508                                                                           
+                                     R509 R510                                                                           
+                                     R514 R515                                                                           
+                                     R516 R1506                                                                          
+2    1uF                             C204 C205  0805T           Capacitor                                                
+1    2k                              R110       0805T           Resistor                                                 
+2    4.7uF, LowESR                   C1500      3216            Capacitor                                                
+                                     C1503                                                                               
+1    5.1k                            R250       0603W                                                                    
+6    10k                             R100 R101  0603W           Resistor                                                 
+                                     R102 R103                                                                           
+                                     R104 R105                                                                           
+2    10nF                            C203 C513  0603W           Capacitor                                                
+12   10uF                            C215 C302  3216            Capacitor                                                
+                                     C303 C500                                                                           
+                                     C514 C515                                                                           
+                                     C516 C1232                                                                          
+                                     C1510                                                                               
+                                     C1511                                                                               
+                                     C1514 U271                                                                          
+1    11k                             R207       0603W                                                                    
+2    22E                             R106 R300  0603W           Resistor                                                 
+1    30BQ100                         D252       SMC             Schottky Diode                                           
+1    30k                             R205       0603W                                                                    
+2    33E                             R512 R513  0603DUAL        Dual Pullup / Pulldown resistor                          
+7    33E                             R301 R302  0603W                                                                    
+                                     R501 R502                                                                           
+                                     R503 R504                                                                           
+                                     R505                                                                                
+4    43k                             R200 R201  0603W                                                                    
+                                     R1507                                                                               
+                                     R1508                                                                               
+1    68uF, LowESR                    C257       3528            Capacitor                                                
+2    91E                             R1500      0603W                                                                    
+                                     R1503                                                                               
+1    120E                            R255       0603W           Resistor                                                 
+6    150E                            R251 R254  0603W           Resistor                                                 
+                                     R1501                                                                               
+                                     R1502                                                                               
+                                     R1504                                                                               
+                                     R1505                                                                               
+1    168uH, DCR 0.4, 1.02A           L250       LCI-44          Inductor                                                 
+1    180E                            R256       0603W           Resistor                                                 
+2    220uF                           C206 C213  D6.3            Capacitor                                                
+1    220uF/63V=                      C253       D12.5           Capacitor                                                
+2    330uF/6.3V=, LowESR             C207 C208  D6.3            Capacitor                                                
+1    1000uF, ESR 0.15                C255       D8X10.5         Capacitor                                                
+3    BAS216                          D200 D201  SOD110          Diode                                                    
+                                     D202                                                                                
+1    BAT254                          D203       SOD110          Schottky Diode                                           
+1    BDW93C                          Q101       TO-220          NPN Transistor                                           
+1    BZG03-C36                       D101       SOD6            Zener Diode                                              
+4    BZX284-C3V9                     D1500      SOD110          Zener Diode                                              
+                                     D1501                                                                               
+                                     D1503                                                                               
+                                     D1504                                                                               
+1    CDCV304PW                       U300       TSSOP8          140-MHz PCI-X CLOCK BUFFER                               
+1    CSX750FBC16.384                 OSC300     CSX750          CITIZEN QUARTZ OSCILLATOR CSX-750FC                      
+1    EL17-21UGC                      D255       LED-0805                                                                 
+1    EL17-21USB                      D253       LED-0805                                                                 
+1    EL17-21USRC                     D256       LED-0805                                                                 
+1    EL17-21UYC                      D254       LED-0805                                                                 
+1    HDR1X2                          J501       HDR1X2          Connector                                                
+1    HDR1X6                          JTAG       HDR1X6          XILINX JTAG 6-pin Header                                 
+2    HEADER 2X2                      JP1500     HDR2X2                                                                   
+                                     JP1501                                                                              
+1    KLD-SMT2-0202-A                 J201       KLD-SMT2-0202-A                                                          
+1    LM2590HVS-5.0                   U250       TO-263-7        SIMPLE SWITCHER Power Converter 150 kHz 2A               
+1    Layer Stackup                   M100       LAYER_4                                                                  
+2    MI0805K601R-00                  L300 L301  0805T           Inductor                                                 
+1    MRT9-P3.5/2                     J200       MRT9-P3.5/2     Connector                                                
+1    PXB                             P1         DIN96PXB        Portux92 Extension Board Connector (DIN96 Female)        
+2    RJHS-5081                       J1500      RJHS-5081       RJ45 unshielded w/ LED                                   
+                                     J1501                                                                               
+3    SIOV-S07K60                     VR250      VAR-S05         VDR (Varistor)                                           
+                                     VR1500                                                                              
+                                     VR1501                                                                              
+1    SM6T68A                         D251       SOD6            Zener Diode                                              
+2    SM6T68CA                        D1502      SOD6                                                                     
+                                     D1505                                                                               
+2    SMD030                          F1500      POLYSWSMD       Fuse                                                     
+                                     F1501                                                                               
+1    SN74LVC1G07DBV                  U102       SOP5DBV         Single Buffer/Driver with Open-Drain Output              
+1    SN74LVC1G14DBV                  U101       SOP5DBV         Single Schmitt-Trigger Inverter                          
+1    TMS320VC5410APGE160             U500       LQFP144         Fixed-Point 16-bit DSP                                   
+2    TP3406V                         U1501      LCC28           DASL Digital Adapter For Subscriber Loops                
+                                     U1502                                                                               
+1    TPS75201QPWP                    U202       HTSSOP20        Fast-transient response 2A Low-Dropout Voltage Regulator 
+1    TPS75233QPWP                    U201       HTSSOP20        Fast-transient response 2A Low-Dropout Voltage Regulator 
+2    UT21434A-TS                     T1500      UT21434A-TS     TP3406 1:1 Wet Transformer max 75 mA current             
+                                     T1501                                                                               
+1    XC9572XL-10VQ64C                U1500      VQFP64          XC95xxXL (CPLD) DSP - 2x DASL Interface                  

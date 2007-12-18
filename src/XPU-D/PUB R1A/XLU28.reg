@@ -1,0 +1,25 @@
+[Directory]
+Assembly (Comments).PPC=PCBPrint
+Assembly (Designators).PPC=PCBPrint
+DEX28-PUB.Pcb=PCB
+DEX28-PUB.Sch=Sch
+DEX28-PUB.REP=Text
+CAM for DEX28-PUB.cam=CAMManager
+DEX28-PUB.XLS=SPREAD
+DEX28-PUB.cfg=Text
+[Assembly (Comments).PPC]
+Editor Kind=PCBPrint
+[Assembly (Designators).PPC]
+Editor Kind=PCBPrint
+[DEX28-PUB.Pcb]
+Editor Kind=PCB
+[DEX28-PUB.Sch]
+Editor Kind=Sch
+[DEX28-PUB.REP]
+Editor Kind=Text
+[CAM for DEX28-PUB.cam]
+Editor Kind=CAMManager
+[DEX28-PUB.XLS]
+Editor Kind=SPREAD
+[DEX28-PUB.cfg]
+Editor Kind=Text

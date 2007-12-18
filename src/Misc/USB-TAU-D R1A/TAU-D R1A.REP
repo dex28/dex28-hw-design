@@ -1,0 +1,139 @@
+Nets report For Doc\USB-TAU-D R1A\TAU-D.pcb
+On 19-Feb-2006 at 15:00:28
+
++5V    Signal Layers Only  Length:189 mms
+
++5V.USB    Signal Layers Only  Length:38 mms
+
+BCLK    Signal Layers Only  Length:35 mms
+
+BR    Signal Layers Only  Length:32 mms
+
+BX    Signal Layers Only  Length:28 mms
+
+CCLK    Signal Layers Only  Length:82 mms
+
+CIN    Signal Layers Only  Length:51 mms
+
+COUT    Signal Layers Only  Length:54 mms
+
+C\C\S\0\    Signal Layers Only  Length:42 mms
+
+C\C\S\1\    Signal Layers Only  Length:21 mms
+
+C\I\N\T\    Signal Layers Only  Length:50 mms
+
+D0    Signal Layers Only  Length:29 mms
+
+D1    Signal Layers Only  Length:23 mms
+
+D2    Signal Layers Only  Length:22 mms
+
+D3    Signal Layers Only  Length:11 mms
+
+D4    Signal Layers Only  Length:17 mms
+
+D5    Signal Layers Only  Length:11 mms
+
+D6    Signal Layers Only  Length:13 mms
+
+D7    Signal Layers Only  Length:17 mms
+
+DCLK    Signal Layers Only  Length:59 mms
+
+DR0    Signal Layers Only  Length:41 mms
+
+DR1    Signal Layers Only  Length:31 mms
+
+DX0    Signal Layers Only  Length:44 mms
+
+DX1    Signal Layers Only  Length:34 mms
+
+FGND    Signal Layers Only  Length:57 mms
+
+FS    Signal Layers Only  Length:36 mms
+
+GND    Signal Layers Only  Length:344 mms
+
+L0    Signal Layers Only  Length:13 mms
+
+L1    Signal Layers Only  Length:13 mms
+
+LED1    Signal Layers Only  Length:21 mms
+
+MBS    Signal Layers Only  Length:26 mms
+
+MCLK    Signal Layers Only  Length:36 mms
+
+NetC110_2    Signal Layers Only  Length:14 mms
+
+NetC35_2    Signal Layers Only  Length:5 mms
+
+NetD1500_2    Signal Layers Only  Length:3 mms
+
+NetD1503_2    Signal Layers Only  Length:4 mms
+
+NetJ-PBX_1    Signal Layers Only  Length:26 mms
+
+NetJ-PBX_2    Signal Layers Only  Length:37 mms
+
+NetJ-PBX_5    Signal Layers Only  Length:35 mms
+
+NetJ-PBX_6    Signal Layers Only  Length:47 mms
+
+NetJ1_1    Signal Layers Only  Length:10 mms
+
+NetR105_1    Signal Layers Only  Length:10 mms
+
+NetR12_2    Signal Layers Only  Length:6 mms
+
+NetR1500_2    Signal Layers Only  Length:4 mms
+
+NetR1503_2    Signal Layers Only  Length:4 mms
+
+NetT1500_3    Signal Layers Only  Length:3 mms
+
+NetT1500_6    Signal Layers Only  Length:17 mms
+
+NetT1500_7    Signal Layers Only  Length:21 mms
+
+NetT1501_3    Signal Layers Only  Length:3 mms
+
+NetT1501_6    Signal Layers Only  Length:20 mms
+
+NetT1501_7    Signal Layers Only  Length:16 mms
+
+NetU1501_25    Signal Layers Only  Length:2 mms
+
+NetU1501_26    Signal Layers Only  Length:2 mms
+
+NetU1502_25    Signal Layers Only  Length:2 mms
+
+NetU1502_26    Signal Layers Only  Length:2 mms
+
+NetY101_1    Signal Layers Only  Length:14 mms
+
+P\W\R\E\N\    Signal Layers Only  Length:14 mms
+
+R0    Signal Layers Only  Length:43 mms
+
+R1    Signal Layers Only  Length:44 mms
+
+R\D\    Signal Layers Only  Length:10 mms
+
+R\E\S\E\T\    Signal Layers Only  Length:32 mms
+
+R\X\F\    Signal Layers Only  Length:32 mms
+
+T0    Signal Layers Only  Length:21 mms
+
+T1    Signal Layers Only  Length:21 mms
+
+T\X\E\    Signal Layers Only  Length:30 mms
+
+USBDM    Signal Layers Only  Length:13 mms
+
+USBDP    Signal Layers Only  Length:15 mms
+
+W\R\    Signal Layers Only  Length:11 mms
+

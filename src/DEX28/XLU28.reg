@@ -1,0 +1,13 @@
+[Directory]
+BRI2P R1A=Folder
+GE6P R2B=Folder
+GE8P R1B=Folder
+GE2P R1D=Folder
+[BRI2P R1A]
+Editor Kind=Folder
+[GE6P R2B]
+Editor Kind=Folder
+[GE8P R1B]
+Editor Kind=Folder
+[GE2P R1D]
+Editor Kind=Folder

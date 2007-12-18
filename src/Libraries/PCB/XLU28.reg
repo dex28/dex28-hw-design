@@ -1,0 +1,13 @@
+[Directory]
+SC34510.Pcb=PCB
+TVM113.PCB=PCB
+ETX.Pcb=PCB
+ESD_SYM.PCB=PCB
+[SC34510.Pcb]
+Editor Kind=PCB
+[TVM113.PCB]
+Editor Kind=PCB
+[ETX.Pcb]
+Editor Kind=PCB
+[ESD_SYM.PCB]
+Editor Kind=PCB

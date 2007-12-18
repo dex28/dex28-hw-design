@@ -1,0 +1,539 @@
+Protel Design System Design Rule Check
+PCB File : Misc\USB-TAU-D R2A\TAU-D R2A.pcb
+Date     : 10-Jan-2007
+Time     : 22:11:50
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is a Polygon  ),(Is Pad U2-0 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11mil) (Is a Polygon  ),(On the board )
+   Violation between Track (329mil,2129mil)(680mil,2129mil)  TopLayer and                      Polygon Arc (760mil,2105mil)  TopLayer   
+   Violation between Track (352mil,490mil)(670mil,490mil)  TopLayer and                      Polygon Arc (760mil,535mil)  TopLayer   
+   Violation between Polygon Track (21mil,2113mil)(410.091mil,2113mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (21mil,2121mil)(410.366mil,2121mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (321mil,1555mil)(321mil,2159.962mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (329mil,1555mil)(329mil,2167.928mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (337mil,1555mil)(337mil,2177.356mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (345mil,1555mil)(345mil,2188.797mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (353mil,1555mil)(353mil,2203.382mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (361mil,1555mil)(361mil,2224.469mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (369mil,1555mil)(369mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (377mil,1555.057mil)(377mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (385mil,1556.459mil)(385mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (393mil,1559.983mil)(393mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (313mil,1592.447mil)(313mil,2153.142mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (401mil,1566.569mil)(401mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (409mil,1581.693mil)(409mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (267.008mil,2129mil)(410.824mil,2129mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (287.299mil,2137mil)(411.466mil,2137mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (301.567mil,2145mil)(412.293mil,2145mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (337mil,460.44mil)(337mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (353mil,434.414mil)(353mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (345mil,448.999mil)(345mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (385mil,21mil)(385mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (393mil,21mil)(393mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (401mil,21mil)(401mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (369mil,21mil)(369mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (361mil,413.327mil)(361mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (377mil,21mil)(377mil,1084.383mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (409mil,21mil)(409mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (317.436mil,481mil)(414.191mil,481mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (326.006mil,473mil)(415.535mil,473mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (307.198mil,489mil)(413.036mil,489mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (277.785mil,505mil)(411.288mil,505mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (294.554mil,497mil)(412.069mil,497mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (313mil,484.654mil)(313mil,1045.348mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (329mil,469.868mil)(329mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (321mil,477.834mil)(321mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (337mil,460.44mil)(337mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (353mil,434.414mil)(353mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (345mil,448.999mil)(345mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (369mil,21mil)(369mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (361mil,413.327mil)(361mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (273mil,506.807mil)(273mil,999.865mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (265mil,509.397mil)(265mil,995.735mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (289mil,499.954mil)(289mil,1011.498mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (281mil,503.673mil)(281mil,1005.042mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (305mil,490.529mil)(305mil,1030.219mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (297mil,495.596mil)(297mil,1019.629mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,521mil)(410.28mil,521mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,529mil)(410.051mil,529mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,537mil)(410mil,537mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,545mil)(410mil,545mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (317.436mil,481mil)(414.191mil,481mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (326.006mil,473mil)(415.535mil,473mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (307.198mil,489mil)(413.036mil,489mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (277.785mil,505mil)(411.288mil,505mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (294.554mil,497mil)(412.069mil,497mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (249.35mil,513mil)(410.692mil,513mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,577mil)(410mil,577mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (97mil,431.855mil)(97mil,2205.941mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (105mil,447.083mil)(105mil,2190.713mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (113mil,458.894mil)(113mil,2178.902mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (73mil,21mil)(73mil,2616.795mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (81mil,21mil)(81mil,2616.795mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (89mil,409.001mil)(89mil,2228.795mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (153mil,494.894mil)(153mil,1021.01mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (161mil,499.352mil)(161mil,1012.581mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (169mil,503.161mil)(169mil,1005.908mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (121mil,468.577mil)(121mil,2169.219mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (129mil,476.735mil)(129mil,2161.061mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (137mil,483.709mil)(137mil,1048.313mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (145mil,489.714mil)(145mil,1032.082mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (201mil,512.855mil)(201mil,990.396mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (217mil,514.754mil)(217mil,987.54mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (177mil,506.379mil)(177mil,1000.559mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (185mil,509.047mil)(185mil,996.285mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (193mil,511.198mil)(193mil,992.932mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (209mil,514.037mil)(209mil,988.614mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (225mil,515.015mil)(225mil,987.151mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (233mil,514.821mil)(233mil,987.44mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (241mil,514.172mil)(241mil,988.411mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (249mil,513.059mil)(249mil,990.087mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (257mil,511.473mil)(257mil,992.508mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (273mil,506.807mil)(273mil,999.865mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (265mil,509.397mil)(265mil,995.735mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (289mil,499.954mil)(289mil,1011.498mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (281mil,503.673mil)(281mil,1005.042mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (297mil,495.596mil)(297mil,1019.629mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,545mil)(410mil,545mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,577mil)(410mil,577mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (33mil,21mil)(33mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (41mil,21mil)(41mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (49mil,21mil)(49mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (57mil,21mil)(57mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (97mil,431.855mil)(97mil,2205.941mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (105mil,447.083mil)(105mil,2190.713mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (65mil,21mil)(65mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (73mil,21mil)(73mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (81mil,21mil)(81mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (89mil,409.001mil)(89mil,2228.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,545mil)(410mil,545mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,577mil)(410mil,577mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,585mil)(410mil,585mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,593mil)(410mil,593mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,601mil)(410mil,601mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,609mil)(410mil,609mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,617mil)(410mil,617mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (33mil,21mil)(33mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (41mil,21mil)(41mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (49mil,21mil)(49mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (57mil,21mil)(57mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (65mil,21mil)(65mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,777mil)(384mil,777mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,785mil)(384mil,785mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,793mil)(384mil,793mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,801mil)(384mil,801mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,809mil)(384mil,809mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,817mil)(384mil,817mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,825mil)(384mil,825mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,833mil)(384mil,833mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,841mil)(384mil,841mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,849mil)(384mil,849mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,857mil)(384mil,857mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,865mil)(384mil,865mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,873mil)(384mil,873mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,881mil)(384mil,881mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1017mil)(156.561mil,1017mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1025mil)(149.833mil,1025mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,993mil)(192.814mil,993mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1001mil)(176.27mil,1001mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1009mil)(165.07mil,1009mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1057mil)(134.178mil,1057mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1065mil)(132.368mil,1065mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1033mil)(144.44mil,1033mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1041mil)(140.129mil,1041mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1049mil)(136.743mil,1049mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1073mil)(131.268mil,1073mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1081mil)(130.855mil,1081mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1089mil)(131.118mil,1089mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1097mil)(132.063mil,1097mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1105mil)(133.712mil,1105mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1113mil)(136.104mil,1113mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1121mil)(139.3mil,1121mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1129mil)(143.394mil,1129mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1137mil)(148.529mil,1137mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1145mil)(154.931mil,1145mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1153mil)(162.988mil,1153mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1161mil)(173.463mil,1161mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1169mil)(188.341mil,1169mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1177mil)(240mil,1177mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1185mil)(240mil,1185mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,585mil)(410mil,585mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,593mil)(410mil,593mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,601mil)(410mil,601mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,609mil)(410mil,609mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,617mil)(410mil,617mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,625mil)(410mil,625mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,633mil)(410mil,633mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,641mil)(410mil,641mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,649mil)(410mil,649mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,657mil)(410mil,657mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,665mil)(410mil,665mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,673mil)(410mil,673mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,681mil)(410mil,681mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,689mil)(410mil,689mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,697mil)(410mil,697mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,705mil)(410mil,705mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,713mil)(410mil,713mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,721mil)(410mil,721mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,729mil)(410mil,729mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,737mil)(410mil,737mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,745mil)(410mil,745mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,753mil)(410mil,753mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,889mil)(384mil,889mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,897mil)(384mil,897mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,761mil)(410mil,761mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,769mil)(410mil,769mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,905mil)(384mil,905mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,913mil)(384mil,913mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,921mil)(384mil,921mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,929mil)(410mil,929mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,937mil)(410mil,937mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,945mil)(410mil,945mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,953mil)(410mil,953mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,961mil)(410mil,961mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,969mil)(410mil,969mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,977mil)(410mil,977mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,985mil)(410mil,985mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1193mil)(240mil,1193mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1201mil)(240mil,1201mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1209mil)(240mil,1209mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1217mil)(240mil,1217mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1225mil)(240mil,1225mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1233mil)(240mil,1233mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1241mil)(240mil,1241mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1249mil)(240mil,1249mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1257mil)(240mil,1257mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1265mil)(240mil,1265mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1273mil)(240mil,1273mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1281mil)(240mil,1281mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1289mil)(240mil,1289mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1297mil)(240mil,1297mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1481mil)(167.583mil,1481mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1489mil)(158.513mil,1489mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1305mil)(240mil,1305mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1465mil)(198.909mil,1465mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1473mil)(179.739mil,1473mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1521mil)(137.515mil,1521mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1529mil)(134.751mil,1529mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1497mil)(151.389mil,1497mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1505mil)(145.689mil,1505mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1513mil)(141.123mil,1513mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1537mil)(132.756mil,1537mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1545mil)(131.48mil,1545mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1553mil)(130.895mil,1553mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1561mil)(130.988mil,1561mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1569mil)(131.76mil,1569mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1577mil)(133.229mil,1577mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1585mil)(135.428mil,1585mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1593mil)(138.414mil,1593mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1601mil)(142.271mil,1601mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1609mil)(147.126mil,1609mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1617mil)(153.181mil,1617mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1625mil)(160.77mil,1625mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1633mil)(170.526mil,1633mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1641mil)(183.942mil,1641mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1649mil)(208.009mil,1649mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1313mil)(240mil,1313mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1321mil)(240mil,1321mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1329mil)(240mil,1329mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1337mil)(240mil,1337mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1345mil)(240mil,1345mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1353mil)(240mil,1353mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1361mil)(240mil,1361mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1369mil)(240mil,1369mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1377mil)(240mil,1377mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1385mil)(240mil,1385mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1393mil)(240mil,1393mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1401mil)(240mil,1401mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1409mil)(240mil,1409mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1417mil)(240mil,1417mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1425mil)(240mil,1425mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1433mil)(240mil,1433mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1441mil)(240mil,1441mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1449mil)(240mil,1449mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1457mil)(240mil,1457mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1657mil)(410mil,1657mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1665mil)(410mil,1665mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1673mil)(410mil,1673mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1681mil)(410mil,1681mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1689mil)(410mil,1689mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1697mil)(410mil,1697mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1705mil)(410mil,1705mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1713mil)(410mil,1713mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1721mil)(410mil,1721mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1729mil)(410mil,1729mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1737mil)(410mil,1737mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1745mil)(410mil,1745mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1753mil)(410mil,1753mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1761mil)(410mil,1761mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1769mil)(410mil,1769mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1777mil)(410mil,1777mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1785mil)(410mil,1785mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1793mil)(410mil,1793mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1801mil)(410mil,1801mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1809mil)(410mil,1809mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1817mil)(410mil,1817mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1825mil)(410mil,1825mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1833mil)(410mil,1833mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1841mil)(410mil,1841mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1849mil)(410mil,1849mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1857mil)(410mil,1857mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1865mil)(410mil,1865mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1873mil)(410mil,1873mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1881mil)(410mil,1881mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1889mil)(410mil,1889mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1897mil)(410mil,1897mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1905mil)(410mil,1905mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1913mil)(410mil,1913mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1921mil)(410mil,1921mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1929mil)(410mil,1929mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1937mil)(410mil,1937mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1945mil)(410mil,1945mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1953mil)(410mil,1953mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1961mil)(410mil,1961mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1969mil)(410mil,1969mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1977mil)(410mil,1977mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+Rule Violations :297
+
+Processing Rule : Width Constraint (Min=15mil) (Max=60mil) (Prefered=20mil) (Is on net +5V )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=250mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=60mil) (Prefered=10mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+   Violation between Track (329mil,2129mil)(680mil,2129mil)  TopLayer and                      Polygon Arc (760mil,2105mil)  TopLayer   
+   Violation between Track (352mil,490mil)(670mil,490mil)  TopLayer and                      Polygon Arc (760mil,535mil)  TopLayer   
+   Violation between Polygon Track (21mil,2121mil)(410.366mil,2121mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (321mil,1555mil)(321mil,2159.962mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (329mil,1555mil)(329mil,2167.928mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (337mil,1555mil)(337mil,2177.356mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (345mil,1555mil)(345mil,2188.797mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (353mil,1555mil)(353mil,2203.382mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (361mil,1555mil)(361mil,2224.469mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (369mil,1555mil)(369mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (377mil,1555.057mil)(377mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (385mil,1556.459mil)(385mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (393mil,1559.983mil)(393mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (401mil,1566.569mil)(401mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (409mil,1581.693mil)(409mil,2616.795mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (267.008mil,2129mil)(410.824mil,2129mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (287.299mil,2137mil)(411.466mil,2137mil)  TopLayer and                      Track (329mil,2129mil)(680mil,2129mil)  TopLayer   
+   Violation between Polygon Track (353mil,434.414mil)(353mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (345mil,448.999mil)(345mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (385mil,21mil)(385mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (393mil,21mil)(393mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (401mil,21mil)(401mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (369mil,21mil)(369mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (361mil,413.327mil)(361mil,1085mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (377mil,21mil)(377mil,1084.383mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (409mil,21mil)(409mil,771.5mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (317.436mil,481mil)(414.191mil,481mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (307.198mil,489mil)(413.036mil,489mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (294.554mil,497mil)(412.069mil,497mil)  TopLayer and                      Track (352mil,490mil)(670mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (313mil,484.654mil)(313mil,1045.348mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (329mil,469.868mil)(329mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (321mil,477.834mil)(321mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (337mil,460.44mil)(337mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (353mil,434.414mil)(353mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (345mil,448.999mil)(345mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (361mil,413.327mil)(361mil,1085mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (273mil,506.807mil)(273mil,999.865mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (289mil,499.954mil)(289mil,1011.498mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (281mil,503.673mil)(281mil,1005.042mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (305mil,490.529mil)(305mil,1030.219mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (297mil,495.596mil)(297mil,1019.629mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,521mil)(410.28mil,521mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,529mil)(410.051mil,529mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,537mil)(410mil,537mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,545mil)(410mil,545mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (317.436mil,481mil)(414.191mil,481mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (307.198mil,489mil)(413.036mil,489mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (277.785mil,505mil)(411.288mil,505mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (294.554mil,497mil)(412.069mil,497mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (249.35mil,513mil)(410.692mil,513mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (281mil,561mil)(352mil,490mil)  TopLayer   
+   Violation between Polygon Track (97mil,431.855mil)(97mil,2205.941mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (105mil,447.083mil)(105mil,2190.713mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (113mil,458.894mil)(113mil,2178.902mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (81mil,21mil)(81mil,2616.795mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (89mil,409.001mil)(89mil,2228.795mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (153mil,494.894mil)(153mil,1021.01mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (161mil,499.352mil)(161mil,1012.581mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (169mil,503.161mil)(169mil,1005.908mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (121mil,468.577mil)(121mil,2169.219mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (129mil,476.735mil)(129mil,2161.061mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (137mil,483.709mil)(137mil,1048.313mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (145mil,489.714mil)(145mil,1032.082mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (201mil,512.855mil)(201mil,990.396mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (217mil,514.754mil)(217mil,987.54mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (177mil,506.379mil)(177mil,1000.559mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (185mil,509.047mil)(185mil,996.285mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (193mil,511.198mil)(193mil,992.932mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (209mil,514.037mil)(209mil,988.614mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (225mil,515.015mil)(225mil,987.151mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (233mil,514.821mil)(233mil,987.44mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (241mil,514.172mil)(241mil,988.411mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (249mil,513.059mil)(249mil,990.087mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (257mil,511.473mil)(257mil,992.508mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (273mil,506.807mil)(273mil,999.865mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (265mil,509.397mil)(265mil,995.735mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (289mil,499.954mil)(289mil,1011.498mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (281mil,503.673mil)(281mil,1005.042mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (89mil,561mil)(281mil,561mil)  TopLayer   
+   Violation between Polygon Track (41mil,21mil)(41mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (49mil,21mil)(49mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (57mil,21mil)(57mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (97mil,431.855mil)(97mil,2205.941mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (65mil,21mil)(65mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (73mil,21mil)(73mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (81mil,21mil)(81mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (89mil,409.001mil)(89mil,2228.795mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,553mil)(410mil,553mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,561mil)(410mil,561mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,569mil)(410mil,569mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,577mil)(410mil,577mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,585mil)(410mil,585mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,593mil)(410mil,593mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,601mil)(410mil,601mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (21mil,609mil)(410mil,609mil)  TopLayer and                      Track (49mil,601mil)(89mil,561mil)  TopLayer   
+   Violation between Polygon Track (41mil,21mil)(41mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (49mil,21mil)(49mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (57mil,21mil)(57mil,2616.795mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,777mil)(384mil,777mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,785mil)(384mil,785mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,793mil)(384mil,793mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,801mil)(384mil,801mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,809mil)(384mil,809mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,817mil)(384mil,817mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,825mil)(384mil,825mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,833mil)(384mil,833mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,841mil)(384mil,841mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,849mil)(384mil,849mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,857mil)(384mil,857mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,865mil)(384mil,865mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,873mil)(384mil,873mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,881mil)(384mil,881mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1017mil)(156.561mil,1017mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1025mil)(149.833mil,1025mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,993mil)(192.814mil,993mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1001mil)(176.27mil,1001mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1009mil)(165.07mil,1009mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1057mil)(134.178mil,1057mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1065mil)(132.368mil,1065mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1033mil)(144.44mil,1033mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1041mil)(140.129mil,1041mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1049mil)(136.743mil,1049mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1073mil)(131.268mil,1073mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1081mil)(130.855mil,1081mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1089mil)(131.118mil,1089mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1097mil)(132.063mil,1097mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1105mil)(133.712mil,1105mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1113mil)(136.104mil,1113mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1121mil)(139.3mil,1121mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1129mil)(143.394mil,1129mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1137mil)(148.529mil,1137mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1145mil)(154.931mil,1145mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1153mil)(162.988mil,1153mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1161mil)(173.463mil,1161mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1169mil)(188.341mil,1169mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1177mil)(240mil,1177mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1185mil)(240mil,1185mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,593mil)(410mil,593mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,601mil)(410mil,601mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,609mil)(410mil,609mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,617mil)(410mil,617mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,625mil)(410mil,625mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,633mil)(410mil,633mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,641mil)(410mil,641mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,649mil)(410mil,649mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,657mil)(410mil,657mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,665mil)(410mil,665mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,673mil)(410mil,673mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,681mil)(410mil,681mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,689mil)(410mil,689mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,697mil)(410mil,697mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,705mil)(410mil,705mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,713mil)(410mil,713mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,721mil)(410mil,721mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,729mil)(410mil,729mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,737mil)(410mil,737mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,745mil)(410mil,745mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,753mil)(410mil,753mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,889mil)(384mil,889mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,897mil)(384mil,897mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,761mil)(410mil,761mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,769mil)(410mil,769mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,905mil)(384mil,905mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,913mil)(384mil,913mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,921mil)(384mil,921mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,929mil)(410mil,929mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,937mil)(410mil,937mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,945mil)(410mil,945mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,953mil)(410mil,953mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,961mil)(410mil,961mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,969mil)(410mil,969mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,977mil)(410mil,977mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,985mil)(410mil,985mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1193mil)(240mil,1193mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1201mil)(240mil,1201mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1209mil)(240mil,1209mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1217mil)(240mil,1217mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1225mil)(240mil,1225mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1233mil)(240mil,1233mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1241mil)(240mil,1241mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1249mil)(240mil,1249mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1257mil)(240mil,1257mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1265mil)(240mil,1265mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1273mil)(240mil,1273mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1281mil)(240mil,1281mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1289mil)(240mil,1289mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1297mil)(240mil,1297mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1481mil)(167.583mil,1481mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1489mil)(158.513mil,1489mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1305mil)(240mil,1305mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1465mil)(198.909mil,1465mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1473mil)(179.739mil,1473mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1521mil)(137.515mil,1521mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1529mil)(134.751mil,1529mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1497mil)(151.389mil,1497mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1505mil)(145.689mil,1505mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1513mil)(141.123mil,1513mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1537mil)(132.756mil,1537mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+   Violation between Polygon Track (21mil,1545mil)(131.48mil,1545mil)  TopLayer and                      Track (49mil,601mil)(49mil,1961mil)  TopLayer   
+Rule Violations :203
+
+Processing Rule : Clearance Constraint (Gap=0mil) (Is Pad U2-0 ),(Is Pad U2-2 )
+Rule Violations :0
+
+More than 500 violations detected. DRC stopped!
+
+Violations Detected : 501
+Time Elapsed        : 00:00:01

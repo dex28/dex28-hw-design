@@ -1,0 +1,15 @@
+Error Report For : Misc\USB-TAU-D R2A\TAU-D R2A.sch    28-Jan-2007  16:46:40
+
+ #1 Error  Multiple Net Identifiers : SAM7.Sch PA19 At (1200,890) And SAM7.Sch PA16 At (1200,890) 
+ #2 Error  Multiple Net Identifiers : SAM7.Sch PA20 At (1200,890) And SAM7.Sch PA15 At (1200,890) 
+ #3 Warning  IO Pins And Output Pins On Net BR0
+   IO Pins                  : TAU-D R2A.sch(U3-30 @510,385) 
+   Output Pins              : TAU-D R2A.sch(U1501-14 @725,940) 
+
+ #4 Warning  IO Pins And Output Pins On Net BR1
+   IO Pins                  : TAU-D R2A.sch(U3-27 @510,355) 
+   Output Pins              : TAU-D R2A.sch(U1502-14 @725,675) 
+
+ #5 Error  Multiple Net Identifiers : SAM7.Sch PA23 At (1200,890) And SAM7.Sch PA2 At (1200,890) 
+
+End Report

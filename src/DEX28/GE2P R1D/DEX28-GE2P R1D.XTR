@@ -1,0 +1,86 @@
+Schematic Parts Extract with Excel Report...
+============================================
+Created: 2007-01-24 20:46:16
+
+Processing Report:
+Parameters used:
+Excel file name: "C:\WORK\DEX28\HW\Assembly\A Stock MGR\Reports\ASSY DEX28-GE2P R1D.xls"
+Match Field: "Designator"
+Match Excel Column: 2
+Scope: "All"
+Current Sheet Only: "False"
+Compare and Report Only: "False"
+Updating the following fields:
+   "Part Type" from column 1
+   "Part Field 1" from column 5
+   "Part Field 2" from column 6
+   "Part Field 3" from column 7
+   "Part Field 4" from column 8
+   "Part Field 5" from column 9
+   "Part Field 6" from column 10
+Opening all the sheets in this project
+Number of sheets to be updated: 10
+Processing sheet 1 of 10     DEX28\GE2P R1D\DEX28-GE2P R1D.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 18
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 1 of 10
+Processing sheet 2 of 10     DEX28\GE2P R1D\Power Supply.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 47
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 2 of 10
+Processing sheet 3 of 10     DEX28\GE2P R1D\Power over Ethernet.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 68
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 3 of 10
+Processing sheet 4 of 10     DEX28\GE2P R1D\ARM MCU.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 54
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 4 of 10
+Processing sheet 5 of 10     DEX28\GE2P R1D\MCU Memory 1.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 22
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 5 of 10
+Processing sheet 6 of 10     DEX28\GE2P R1D\MCU Memory 2.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 8
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 6 of 10
+Processing sheet 7 of 10     DEX28\GE2P R1D\MCU Serial.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 32
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 7 of 10
+Processing sheet 8 of 10     DEX28\GE2P R1D\MCU Ethernet.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 45
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 8 of 10
+Processing sheet 9 of 10     DEX28\GE2P R1D\DSP Core.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 41
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 9 of 10
+Processing sheet 10 of 10     DEX28\GE2P R1D\DASL Pair.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 58
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 10 of 10
+
+
+All parts were matched in the Excel file.
+

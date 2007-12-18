@@ -1,0 +1,7 @@
+[Directory]
+LM5000.Pcb=PCB
+LM5000.Sch=Sch
+[LM5000.Pcb]
+Editor Kind=PCB
+[LM5000.Sch]
+Editor Kind=Sch

@@ -1,0 +1,61 @@
+[Directory]
+Status Report.txt=Text
+Pick Place for XPU-D R1A.txt=Text
+XPU-D R1A.REP=Text
+XPU-D R1A.GTL=Text
+XPU-D R1A.GBL=Text
+XPU-D R1A.GTO=Text
+XPU-D R1A.GBO=Text
+XPU-D R1A.GTP=Text
+XPU-D R1A.GBP=Text
+XPU-D R1A.GTS=Text
+XPU-D R1A.GBS=Text
+XPU-D R1A.GP1=Text
+XPU-D R1A.GP2=Text
+XPU-D R1A.GM1=Text
+XPU-D R1A.GM3=Text
+XPU-D R1A.apr=Text
+XPU-D R1A.DRR=Text
+XPU-D R1A.TXT=Text
+XPU-D R1A.DRL=Unknown
+BOM for XPU-D R1A.bom=Spread
+[Status Report.txt]
+Editor Kind=Text
+[Pick Place for XPU-D R1A.txt]
+Editor Kind=Text
+[XPU-D R1A.REP]
+Editor Kind=Text
+[XPU-D R1A.GTL]
+Editor Kind=Text
+[XPU-D R1A.GBL]
+Editor Kind=Text
+[XPU-D R1A.GTO]
+Editor Kind=Text
+[XPU-D R1A.GBO]
+Editor Kind=Text
+[XPU-D R1A.GTP]
+Editor Kind=Text
+[XPU-D R1A.GBP]
+Editor Kind=Text
+[XPU-D R1A.GTS]
+Editor Kind=Text
+[XPU-D R1A.GBS]
+Editor Kind=Text
+[XPU-D R1A.GP1]
+Editor Kind=Text
+[XPU-D R1A.GP2]
+Editor Kind=Text
+[XPU-D R1A.GM1]
+Editor Kind=Text
+[XPU-D R1A.GM3]
+Editor Kind=Text
+[XPU-D R1A.apr]
+Editor Kind=Text
+[XPU-D R1A.DRR]
+Editor Kind=Text
+[XPU-D R1A.TXT]
+Editor Kind=Text
+[XPU-D R1A.DRL]
+Editor Kind=Unknown
+[BOM for XPU-D R1A.bom]
+Editor Kind=Spread

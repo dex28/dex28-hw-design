@@ -1,0 +1,53 @@
+[Directory]
+Mechanics=Folder
+TAU-D R2A.sch=Sch
+TAU-D R2A.REP=Text
+TAU-D R2A.pcb=PCB
+TAU-D R2A.ERC=Text
+TAU-D R2A.DRC=Text
+Preview TAU-D R2A.PPC=PCBPrint
+CAM for TAU-D R2A.cam=CAMManager
+TAU-D R2A.cfg=Text
+TAU-D R2A.Bom=Text
+TAU-D R2A.XLS=SPREAD
+TAU-D R2A.XTR=Text
+SAM7.Sch=Sch
+WARNINGS.SYN=Text
+SAM7.xls=SPREAD
+[Mechanics]
+Editor Kind=Folder
+[TAU-D R2A.sch]
+Editor Kind=Sch
+Attributes=131072
+[TAU-D R2A.REP]
+Editor Kind=Text
+[TAU-D R2A.pcb]
+Editor Kind=PCB
+[TAU-D R2A.ERC]
+Editor Kind=Text
+Attributes=131072
+[TAU-D R2A.DRC]
+Editor Kind=Text
+[Preview TAU-D R2A.PPC]
+Editor Kind=PCBPrint
+[CAM for TAU-D R2A.cam]
+Editor Kind=CAMManager
+[TAU-D R2A.cfg]
+Editor Kind=Text
+Attributes=131072
+[TAU-D R2A.Bom]
+Editor Kind=Text
+[TAU-D R2A.XLS]
+Editor Kind=SPREAD
+[TAU-D R2A.XTR]
+Editor Kind=Text
+Attributes=131072
+[SAM7.Sch]
+Editor Kind=Sch
+[WARNINGS.SYN]
+Editor Kind=Text
+[TAU-D R2A.sch Childlist]
+ChildCount=1
+Child1=SAM7.Sch
+[SAM7.xls]
+Editor Kind=SPREAD

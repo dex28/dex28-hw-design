@@ -1,0 +1,25 @@
+[Directory]
+USB-DTS.Sch=Sch
+CAM for USB-DTS.cam=CAMManager
+Preview USB-DTS.PPC=PCBPrint
+USB-DTS.cfg=Text
+USB-DTS.ERC=Text
+USB-DTS.pcb=PCB
+USB-DTS.REP=Text
+USB-DTS.XLS=SPREAD
+[USB-DTS.Sch]
+Editor Kind=Sch
+[CAM for USB-DTS.cam]
+Editor Kind=CAMManager
+[Preview USB-DTS.PPC]
+Editor Kind=PCBPrint
+[USB-DTS.cfg]
+Editor Kind=Text
+[USB-DTS.ERC]
+Editor Kind=Text
+[USB-DTS.pcb]
+Editor Kind=PCB
+[USB-DTS.REP]
+Editor Kind=Text
+[USB-DTS.XLS]
+Editor Kind=SPREAD

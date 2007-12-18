@@ -1,0 +1,34 @@
+Bill of Material for GE6P48VPS R2A.Bom
+
+Used Part Type              Designator Footprint  Description    
+==== ====================== ========== ========== ============== 
+6    1uF/100V=              C21 C23    1210T      Capacitor      
+                            C25 C27                              
+                            C29 C31                              
+7    4.7nF/100V=            C1 C20 C22 1206T      Capacitor      
+                            C24 C26                              
+                            C28 C30                              
+1    10MQ100                D1         SMA        Schottky Diode 
+1    10uF                   C12        3216       Capacitor      
+6    22uF, 63V=             C3 C4 C5   D6.3       Capacitor      
+                            C6 C7 C8                             
+18   33uH, 160mA            L3a L3b    1812T      Inductor       
+                            L4a L4b                              
+                            L5a L5b                              
+                            L6a L6b                              
+                            L7a L7b                              
+                            L8a L8b                              
+                            L9a L9b                              
+                            L10a L10b                            
+                            L11a L11b                            
+1    BLM41P750S             L1         1812T      Inductor       
+6    HDR1X2                 J4 J5 J6   HDR1X2     Connector      
+                            J7 J8 J9                             
+2    HDR2X2                 J1 J2      HDR2X2                    
+1    SMBJ58A                D2         SMB        Zener Diode    
+12   miniSMDC014            F3a F3b    POLYSWMINI Fuse           
+                            F4a F4b                              
+                            F5a F5b                              
+                            F6a F6b                              
+                            F7a F7b                              
+                            F8a F8b                              

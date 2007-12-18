@@ -1,0 +1,69 @@
+Bill of Material for TAU-D R2A.Bom
+
+Used Part Type                             Designator Footprint     
+==== ===================================== ========== ============= 
+16   0.1uF                                 C23 C25    0603W         
+                                           C26 C101                 
+                                           C102 C103                
+                                           C104 C107                
+                                           C108 C109                
+                                           C110 C300                
+                                           C1501                    
+                                           C1504                    
+                                           C1512                    
+                                           C1513                    
+2    1.5k                                  R53 R60    0603W         
+1    1k                                    R1506      0603W         
+2    1nF                                   C60 C106   0603W         
+1    1nF/2kV                               C1         1812T         
+2    1uF/100V                              C1502      1210T         
+                                           C1505                    
+5    4.7uF                                 C111 C120  0805T         
+                                           C302 C1500               
+                                           C1503                    
+6    10k                                   R102 R103  0603W         
+                                           R104 R1507               
+                                           R1508                    
+                                           R1509                    
+3    10nF                                  C24 C53    0603W         
+                                           C61                      
+2    10pF                                  C10 C11    0603W         
+4    10uF                                  C18 C121   1206T         
+                                           C1511                    
+                                           C1514                    
+2    15pF                                  C50 C52    0603W         
+2    27R                                   R50 R51    0603W         
+1    33pF                                  C51        0603W         
+2    33uH                                  L1502      1812T         
+                                           L1503                    
+4    43k                                   R106 R107  0603W         
+                                           R108 R109                
+1    62R                                   R1550      0603W         
+2    91R                                   R1500      0603W         
+                                           R1503                    
+1    100k                                  R52        0603W         
+1    180R                                  R105       0603W         
+1    AT91SAM7S128AU                        U1         VQFP64        
+4    BZX284-C3V9                           D1500      SOD110        
+                                           D1501                    
+                                           D1503                    
+                                           D1504                    
+1    C8317-04BFHSW0R                       J1         USB-B-TH      
+1    CS10-18.432MABJTR                     Y101       CS10          
+1    CSX750PCB16.384000                    OSC300     CSX750        
+1    EL91-21SURC/S530-A2/TR10              D1         EL91-21-TR10  
+4    Fiducial                              M104 M105  FIDUCIAL-MARK 
+                                           M106 M107                
+1    HDR1X2                                JP1        HDR1X2        
+1    IRLML6402PbF                          Q1         SOT23         
+1    KF33BDT                               U2         D-PAK         
+1    MI0805K601R-00                        L300       0805T         
+1    MI0805K601R-10                        L1         0805T         
+2    RJ01-660-01                           J-DTS      RJ01-660-01   
+                                           J-PBX                    
+2    SMAJ60CA                              D1502      SMA           
+                                           D1505                    
+2    TP3406V                               U1501      LCC28         
+                                           U1502                    
+2    UT21434A-TS                           T1500      UT21434A-TS   
+                                           T1501                    

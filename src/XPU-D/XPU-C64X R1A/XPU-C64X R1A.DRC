@@ -1,0 +1,207 @@
+Protel Design System Design Rule Check
+PCB File : XPU-D\XPU-C64X R1A\XPU-C64X R1A.Pcb
+Date     : 24-Sep-2007
+Time     : 23:22:56
+
+WARNING: Primitives found on Internal Planes
+       Ground
+       Power
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is on net PGND ),(Is part of net class Sw-Hi-Pot )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Is on net FGND ),(Is on net VCCA1_7 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (Is on net FGND ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11mil) (Is a Polygon  ),(On the board )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Prefered=4mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+   Violation         Net VCORE   is broken into 14 sub-nets. Routed To 86.17%
+     Subnet : C324-2        Subnet : C353-2        Subnet : C377-2   U1-A1    U1-B2    U1-C3    U1-D4    U1-E5    U1-F6    U1-G7    U1-F7    U1-G8                  U1-G10   U1-G11   U1-G6    U1-H7    U1-K7    U1-L7    C349-2   C371-2   U1-N7    U1-G13   U1-E22                 U1-D23   U1-F21   U1-C24   U1-G16   U1-G17   U1-F20   U1-G19   U1-G20   C352-2   U1-B25   U1-A26                 U1-G14   C370-2   C347-2   C368-2   U1-N20   U1-H20   U1-G21   U1-K20   U1-L20   U1-T7    U1-U7                  U1-W7    U1-Y6    U1-P7    C350-2   C372-2   U1-Y13   U1-Y14   U1-AF1   U1-AE2   U1-AD3   U1-Y7                  U1-AA6   U1-Y8    U1-AA7   U1-Y10   U1-Y11   U1-AC4   U1-AB5   C369-2   C348-2   U1-P20   U1-Y16                 U1-Y17   U1-Y19   U1-AA20  U1-T20   U1-U20   U1-W20   U1-Y21   U1-Y20   U1-AA21  U1-AB22  U1-AC23                U1-AD24  U1-AE25  U1-AF26  C374-2   C302-2   C354-2        Subnet : C327-2        Subnet : C373-2        Subnet : C375-2        Subnet : C326-2        Subnet : C351-2        Subnet : C325-2        Subnet : C376-2        Subnet : C310-2        Subnet : C308-2        Subnet : L301-2        Subnet : R301-1      Violation         Net VCC   is broken into 9 sub-nets. Routed To 93.55%
+     Subnet : P1-19    C335-2   C336-2   P1-28    P1-31    P1-40    E2-1     C342-2   C366-2   C320-2                 U1-B1    U1-A2    R101-1   U1-F3    R102-1   U1-G5    U1-H5    U1-N2    U1-K5    U1-L5    U1-M5                  U1-E7    U1-E8    U1-E10   U1-M6    R112-1   R115-1   OSC100-1 R117-1   R110-1   R111-1   U1-B14                 R116-1   R118-1   C334-2   R119-1   E1-1     C331-2   C341-2   U1-A25   C323-2   U1-E17   U1-E19                 U1-F12   C329-2   U1-F15   U1-E20   U1-G22   U1-H22   U1-B26   C362-2   U1-M21   U1-K22   C361-2                 P1-63    P1-70    U1-R5    U1-T5    U1-U5    U1-W5    U1-Y5    U1-AE1   U1-R6    C356-2   U1-AB7                 U1-AB8   C333-2   P1-88    P1-89    C321-2   C357-2   U1-AF2   R108-2   U2-6     R123-2   R114-1                 C337-2   C355-2   U1-AA12  U1-AA15  U1-AB10  U1-AB17  C328-2   U1-R21   U1-P25   U1-U22   C345-2                 U1-AB19  U1-W22   U1-Y22   C340-2   U1-AE13  U1-AB20  R105-1   R306-2   D100-1   R106-1   U1-AF25                C360-2   U1-AE26  D101-1   C322-2   C301-2   L302-1   U1-F18   U1-F9    U1-J21   U1-V6    U1-AA9                 U1-AA18  U1-V21   C332-2   C365-2   C338-2   R107-2   C359-2        Subnet : C346-2   C367-2        Subnet : C364-2        Subnet : C363-2        Subnet : C339-2        Subnet : C330-2        Subnet : C343-2        Subnet : C358-2        Subnet : C344-2      Violation         Net NetR402_2   is broken into 2 sub-nets. Routed To 50.00%
+     Subnet : R402-2   U1-E3         Subnet : U1-C1       Violation         Net NetR401_2   is broken into 2 sub-nets. Routed To 50.00%
+     Subnet : R401-2   U1-D1         Subnet : U1-E1       Violation         Net GND   is broken into 5 sub-nets. Routed To 98.07%
+     Subnet : P1-5     P1-6     P1-8     P1-9     C336-1   C335-1   C324-1   P1-15    P1-23    P1-37                  C320-1   C366-1   OSC100-2 C312-1   C353-1   C342-1   R103-2   C346-1   U1-A8    U1-C2    P1-49                  P1-50    C332-1   U1-B3    U1-C4    U1-D3    U1-E4    P1-55    P1-62    U1-H1    U1-D5    U1-E6                  U1-F5    U1-E9    U1-F8    U1-G9    U1-H6    U1-J5    U1-L6    U1-N6    U1-J7    U1-M7    C334-1                 C100-2   C367-1   C101-2   C341-1   U1-B13   U1-F10   U1-F11   U1-E18   U1-F13   U1-A19   U1-E21                 R121-1   E1-2     C373-1   C327-1   U1-C23   U1-B24   U1-D22   U1-E23   U1-C25   C352-1   U1-D24                 U1-G12   U1-F14   U1-F16   U1-G15   C349-1   C329-1   C371-1   C347-1   C356-1   C368-1   U1-F17                 U1-G18   U1-F19   U1-H21   U1-J20   U1-F22   C362-1   U1-J22   U1-H26   C323-1   U1-K21   U1-L21                 U1-M20   U1-N21   C361-1   U1-N25   C326-1   P1-69    P1-74    U1-W1    U1-P2    U1-P6    U1-V5                  U1-T6    U1-U6    P1-77    U1-AA5   U1-W6    U1-AB4   U1-AB6   U1-R7    U1-V7    C372-1   C350-1                 U1-AA8   U1-Y9    U1-AA10  U1-AB9   U1-AA11  U1-Y12   P1-82    P1-83    C351-1   C376-1   P1-101                 P1-102   C365-1   U1-AD2   P1-104   P1-114   C321-1   R122-2   C325-1   U1-AC3   U1-AC5   U1-AE3                 U1-AD4   C358-1   U1-AF8   C344-1   C357-1   U2-2     R500-2   R501-2   C337-1   C370-1   C369-1                 C355-1   C328-1   U1-R20   C348-1   U1-Y15   U1-AA13  U1-AA14  U1-AA16  U1-V20   U1-Y18   U1-AA17                U1-AA19  U1-AB18  U1-P21   U1-T21   U1-U21   U1-V22   C345-1   U1-W26   C310-1   U1-W21   U1-AA22                U1-AB21  U1-AC22  U1-AB23  U1-AC24  U1-AE14  C359-1   U1-AF19  U1-AD23  U1-AD25  C340-1   C374-1                 U1-AE24  C360-1   Q100-2   Q101-2   C354-1   C322-1   C302-1   C301-1   U3-0     R302-1   U3-1                   U3-11    C309-1   U3-13    R304-1   C304-2   C305-2   P1-32    P1-27    C311-1   C377-1   E2-2                   C330-1   C331-1   C363-1   R120-1   C338-1   C375-1   U3-12         Subnet : C364-1        Subnet : C339-1        Subnet : C343-1        Subnet : C333-1      Violation         Net EMU0   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : U1-AF15       Subnet : R106-2      Violation         Net BEA9   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : R112-2        Subnet : U1-B16      Violation         Net BEA16   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : R117-2        Subnet : U1-A18      Violation         Net BEA14   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : R115-2        Subnet : U1-C17   Rule Violations :9
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+   Violation between Via (1480.315mil,1031.497mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1480.315mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1511.812mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1543.308mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1543.308mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1574.804mil,1157.481mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1673.23mil,1185.04mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1606.3mil,1188.977mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1637.796mil,1220.473mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,1054.134mil)(1670.276mil,1220.472mil)  Power   
+   Violation between Via (1448.819mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1480.315mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1511.812mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1480.315mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1543.308mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1574.804mil,1157.481mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1606.3mil,1188.977mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1602.364mil,1255.907mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1637.796mil,1220.473mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,1086.614mil)(1637.795mil,1252.953mil)  Power   
+   Violation between Via (1354.331mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1346.458mil,1086.615mil)(1471.457mil,1086.614mil)  Power   
+   Violation between Via (1385.827mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1346.458mil,1086.615mil)(1471.457mil,1086.614mil)  Power   
+   Violation between Via (1322.835mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1346.458mil,1086.615mil)(1471.457mil,1086.614mil)  Power   
+   Violation between Via (1448.819mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1346.458mil,1086.615mil)(1471.457mil,1086.614mil)  Power   
+   Violation between Via (1480.315mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1346.458mil,1086.615mil)(1471.457mil,1086.614mil)  Power   
+   Violation between Via (1480.315mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,929.134mil)(1503.937mil,1054.134mil)  Power   
+   Violation between Via (1480.315mil,968.504mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,929.134mil)(1503.937mil,1054.134mil)  Power   
+   Violation between Via (1511.812mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,929.134mil)(1503.937mil,1054.134mil)  Power   
+   Violation between Via (1480.315mil,1031.497mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,929.134mil)(1503.937mil,1054.134mil)  Power   
+   Violation between Via (1480.315mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,929.134mil)(1503.937mil,1054.134mil)  Power   
+   Violation between Via (1354.331mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,1070.867mil)(1346.458mil,1086.615mil)  Power   
+   Violation between Via (1322.835mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,1070.867mil)(1346.458mil,1086.615mil)  Power   
+   Violation between Via (1354.331mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,1035.434mil)(1330.71mil,1070.867mil)  Power   
+   Violation between Via (1322.835mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,1035.434mil)(1330.71mil,1070.867mil)  Power   
+   Violation between Via (1480.315mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1488.189mil,913.386mil)(1503.937mil,929.134mil)  Power   
+   Violation between Via (1511.812mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1488.189mil,913.386mil)(1503.937mil,929.134mil)  Power   
+   Violation between Via (1543.308mil,559.055mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1480.315mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1511.812mil,590.551mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1480.315mil,653.544mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1637.796mil,464.567mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1574.804mil,527.559mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1606.3mil,496.063mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1673.23mil,500.001mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1543.308mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1670.276mil,464.567mil)  Power   
+   Violation between Via (1480.315mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1488.189mil,771.654mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1511.812mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1488.189mil,771.654mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1480.315mil,559.055mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1543.308mil,559.055mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1448.819mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1480.315mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1511.812mil,590.551mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1602.364mil,429.135mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1637.796mil,464.567mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1574.804mil,527.559mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1606.3mil,496.063mil) TopLayer to BottomLayer and                      Polygon Track (1471.457mil,598.425mil)(1637.795mil,432.087mil)  Power   
+   Violation between Via (1480.315mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,913.387mil)(1488.189mil,913.386mil)  Power   
+   Violation between Via (1511.812mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,913.387mil)(1488.189mil,913.386mil)  Power   
+   Violation between Via (1480.315mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1480.315mil,653.544mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1480.315mil,716.536mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1480.315mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1511.812mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1503.937mil,630.905mil)(1503.937mil,755.905mil)  Power   
+   Violation between Via (1425mil,800mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,771.654mil)(1448.821mil,913.387mil)  Power   
+   Violation between Via (1425mil,885mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,771.654mil)(1448.821mil,913.387mil)  Power   
+   Violation between Via (1480.315mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,771.654mil)(1488.189mil,771.654mil)  Power   
+   Violation between Via (1511.812mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1448.821mil,771.654mil)(1488.189mil,771.654mil)  Power   
+   Violation between Via (1322.835mil,590.551mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,614.174mil)(1330.71mil,649.607mil)  Power   
+   Violation between Via (1354.331mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,614.174mil)(1330.71mil,649.607mil)  Power   
+   Violation between Via (1322.835mil,590.551mil) TopLayer to BottomLayer and                      Polygon Track (1346.457mil,598.425mil)(1471.457mil,598.425mil)  Power   
+   Violation between Via (1354.331mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1346.457mil,598.425mil)(1471.457mil,598.425mil)  Power   
+   Violation between Via (1385.827mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1346.457mil,598.425mil)(1471.457mil,598.425mil)  Power   
+   Violation between Via (1448.819mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1346.457mil,598.425mil)(1471.457mil,598.425mil)  Power   
+   Violation between Via (1480.315mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1346.457mil,598.425mil)(1471.457mil,598.425mil)  Power   
+   Violation between Via (1322.835mil,590.551mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,614.174mil)(1346.457mil,598.425mil)  Power   
+   Violation between Via (1354.331mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1330.71mil,614.174mil)(1346.457mil,598.425mil)  Power   
+   Violation between Via (1165.355mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1173.23mil,1086.615mil)(1188.978mil,1070.867mil)  Power   
+   Violation between Via (1196.851mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1173.23mil,1086.615mil)(1188.978mil,1070.867mil)  Power   
+   Violation between Via (1165.355mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,1035.434mil)(1188.978mil,1070.867mil)  Power   
+   Violation between Via (1196.851mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,1035.434mil)(1188.978mil,1070.867mil)  Power   
+   Violation between Via (1220mil,1010mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,1035.434mil)(1330.71mil,1035.434mil)  Power   
+   Violation between Via (1300mil,1010mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,1035.434mil)(1330.71mil,1035.434mil)  Power   
+   Violation between Via (1039.37mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,1086.614mil)(1173.23mil,1086.615mil)  Power   
+   Violation between Via (1070.866mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,1086.614mil)(1173.23mil,1086.615mil)  Power   
+   Violation between Via (1133.859mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,1086.614mil)(1173.23mil,1086.615mil)  Power   
+   Violation between Via (1165.355mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,1086.614mil)(1173.23mil,1086.615mil)  Power   
+   Violation between Via (1196.851mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,1086.614mil)(1173.23mil,1086.615mil)  Power   
+   Violation between Via (1007.874mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1031.498mil,913.387mil)(1066.931mil,913.387mil)  Power   
+   Violation between Via (1039.37mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1031.498mil,913.387mil)(1066.931mil,913.387mil)  Power   
+   Violation between Via (944.882mil,1157.481mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (913.386mil,1188.977mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (881.89mil,1220.473mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (917.324mil,1255.907mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (976.378mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (1007.874mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (1039.37mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (1070.866mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (1039.37mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,1252.953mil)(1048.228mil,1086.614mil)  Power   
+   Violation between Via (846.458mil,1185.04mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (944.882mil,1157.481mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (913.386mil,1188.977mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (881.89mil,1220.473mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (1039.37mil,1031.497mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (976.378mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (976.378mil,1125.985mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (1007.874mil,1094.489mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (1039.37mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,1220.472mil)(1015.748mil,1054.134mil)  Power   
+   Violation between Via (1007.874mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,1054.134mil)(1015.75mil,929.135mil)  Power   
+   Violation between Via (1039.37mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,1054.134mil)(1015.75mil,929.135mil)  Power   
+   Violation between Via (1039.37mil,968.505mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,1054.134mil)(1015.75mil,929.135mil)  Power   
+   Violation between Via (1039.37mil,1031.497mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,1054.134mil)(1015.75mil,929.135mil)  Power   
+   Violation between Via (1039.37mil,1062.993mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,1054.134mil)(1015.75mil,929.135mil)  Power   
+   Violation between Via (1090mil,805mil) TopLayer to BottomLayer and                      Polygon Track (1066.931mil,771.654mil)(1066.931mil,913.387mil)  Power   
+   Violation between Via (1095mil,885mil) TopLayer to BottomLayer and                      Polygon Track (1066.931mil,771.654mil)(1066.931mil,913.387mil)  Power   
+   Violation between Via (1220mil,675mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,649.607mil)(1330.71mil,649.607mil)  Power   
+   Violation between Via (1300mil,675mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,649.607mil)(1330.71mil,649.607mil)  Power   
+   Violation between Via (1007.874mil,905.512mil) TopLayer to BottomLayer and                      Polygon Track (1015.75mil,929.135mil)(1031.498mil,913.387mil)  Power   
+   Violation between Via (1039.37mil,937.008mil) TopLayer to BottomLayer and                      Polygon Track (1015.75mil,929.135mil)(1031.498mil,913.387mil)  Power   
+   Violation between Via (1007.874mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1031.498mil,771.654mil)(1066.931mil,771.654mil)  Power   
+   Violation between Via (1039.37mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1031.498mil,771.654mil)(1066.931mil,771.654mil)  Power   
+   Violation between Via (1196.851mil,590.552mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,614.174mil)(1188.978mil,649.607mil)  Power   
+   Violation between Via (1165.355mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1188.978mil,614.174mil)(1188.978mil,649.607mil)  Power   
+   Violation between Via (1196.851mil,590.552mil) TopLayer to BottomLayer and                      Polygon Track (1173.23mil,598.426mil)(1188.978mil,614.174mil)  Power   
+   Violation between Via (1165.355mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1173.23mil,598.426mil)(1188.978mil,614.174mil)  Power   
+   Violation between Via (1039.37mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,598.425mil)(1173.23mil,598.426mil)  Power   
+   Violation between Via (1070.866mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,598.425mil)(1173.23mil,598.426mil)  Power   
+   Violation between Via (1133.859mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,598.425mil)(1173.23mil,598.426mil)  Power   
+   Violation between Via (1196.851mil,590.552mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,598.425mil)(1173.23mil,598.426mil)  Power   
+   Violation between Via (1165.355mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1048.228mil,598.425mil)(1173.23mil,598.426mil)  Power   
+   Violation between Via (917.324mil,429.135mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (881.89mil,464.567mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (913.386mil,496.063mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (944.882mil,527.559mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (976.378mil,559.055mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (1007.874mil,590.552mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (1039.37mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (1070.866mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (881.89mil,432.087mil)(1048.228mil,598.425mil)  Power   
+   Violation between Via (1007.874mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1015.75mil,755.907mil)(1031.498mil,771.654mil)  Power   
+   Violation between Via (1039.37mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1015.75mil,755.907mil)(1031.498mil,771.654mil)  Power   
+   Violation between Via (1039.37mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,630.905mil)(1015.75mil,755.907mil)  Power   
+   Violation between Via (1039.37mil,653.544mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,630.905mil)(1015.75mil,755.907mil)  Power   
+   Violation between Via (1007.874mil,779.528mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,630.905mil)(1015.75mil,755.907mil)  Power   
+   Violation between Via (1039.37mil,716.536mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,630.905mil)(1015.75mil,755.907mil)  Power   
+   Violation between Via (1039.37mil,748.032mil) TopLayer to BottomLayer and                      Polygon Track (1015.748mil,630.905mil)(1015.75mil,755.907mil)  Power   
+   Violation between Via (881.89mil,464.567mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (913.386mil,496.063mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (846.458mil,500.001mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (944.882mil,527.559mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (976.378mil,559.055mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (1007.874mil,590.552mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (976.378mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (1039.37mil,622.048mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (1039.37mil,653.544mil) TopLayer to BottomLayer and                      Polygon Track (849.409mil,464.567mil)(1015.748mil,630.905mil)  Power   
+   Violation between Via (752.998mil,439.999mil) TopLayer to BottomLayer and                      Polygon Track (740.159mil,464.568mil)(849.409mil,464.567mil)  Power   
+   Violation between Via (752.998mil,439.999mil) TopLayer to BottomLayer and                      Polygon Track (740.159mil,350.395mil)(740.159mil,464.568mil)  Power   
+Rule Violations :153
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is part of Component class Fiducials ),(On the board )
+Rule Violations :0
+
+
+Violations Detected : 162
+Time Elapsed        : 00:00:03

@@ -1,0 +1,49 @@
+Protel Design System Design Rule Check
+PCB File : Doc\DEX28-GE2P R1C\DEX28-GE2P R1C.Pcb
+Date     : 21-Sep-2005
+Time     : 23:39:26
+
+WARNING: Primitives found on Internal Planes
+       Ground
+       Power
+
+WARNING: Split plane(s) intersect Keepout object(s) or board outline
+       Ground
+       Power
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is part of Component class Fiducials ),(On the board )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Prefered=10mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11mil) (Is a Polygon  ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (Is on net FGND ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Is on net FGND ),(Is on net VCCA1_8 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is on net PGND ),(Is part of net class Sw-Hi-Pot )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:01:15

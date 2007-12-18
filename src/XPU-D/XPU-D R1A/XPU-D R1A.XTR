@@ -1,0 +1,74 @@
+Schematic Parts Extract with Excel Report...
+============================================
+Created: 2007-01-24 22:15:41
+
+Processing Report:
+Parameters used:
+Excel file name: "C:\WORK\DEX28\HW\Assembly\A Stock MGR\Reports\ASSY XPU-D R1A.xls"
+Match Field: "Designator"
+Match Excel Column: 2
+Scope: "All"
+Current Sheet Only: "False"
+Compare and Report Only: "False"
+Updating the following fields:
+   "Part Type" from column 1
+   "Part Field 1" from column 5
+   "Part Field 2" from column 6
+   "Part Field 3" from column 7
+   "Part Field 4" from column 8
+   "Part Field 5" from column 9
+   "Part Field 6" from column 10
+Opening all the sheets in this project
+Number of sheets to be updated: 8
+Processing sheet 1 of 8     DEX28\XPU-D R1A\XPU-D R1A.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 9
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 1 of 8
+Processing sheet 2 of 8     DEX28\XPU-D R1A\Power Supply.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 54
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 2 of 8
+Processing sheet 3 of 8     DEX28\XPU-D R1A\ARM MCU.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 51
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 3 of 8
+Processing sheet 4 of 8     DEX28\XPU-D R1A\MCU Memory.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 26
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 4 of 8
+Processing sheet 5 of 8     DEX28\XPU-D R1A\MCU Peripherals.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 19
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 5 of 8
+Processing sheet 6 of 8     DEX28\XPU-D R1A\MCU Ethernet.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 45
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 6 of 8
+Processing sheet 7 of 8     DEX28\XPU-D R1A\DSP Control.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 54
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 7 of 8
+Processing sheet 8 of 8     DEX28\XPU-D R1A\JTAG.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 46
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 8 of 8
+
+
+All parts were matched in the Excel file.
+

@@ -1,0 +1,37 @@
+CAM Outputs Generation Report
+for 'CAM for XPU-D R2A.cam'
+at 23:15:03 on 9-Dec-2007 
+
+
+'Gerber Output - Not ELPRINT'
+'XPU-D R2A.GTL' generated
+'XPU-D R2A.GBL' generated
+'XPU-D R2A.GTO' generated
+'XPU-D R2A.GBO' generated
+'XPU-D R2A.GTP' generated
+'XPU-D R2A.GBP' generated
+'XPU-D R2A.GTS' generated
+'XPU-D R2A.GBS' generated
+'XPU-D R2A.GM1' generated
+'XPU-D R2A.GM3' generated
+'XPU-D R2A.REP' generated
+
+'NC Drill Output 1'
+'XPU-D R2A.TXT' generated
+'XPU-D R2A.DRL' generated
+'XPU-D R2A.DRR' generated
+
+'Gerber Output - ELPRINT'
+This output was disabled.
+No files were generated
+
+'Pick Place Output 1'
+This output was disabled.
+No files were generated
+
+'BOM Output 1'
+This output was disabled.
+No files were generated
+
+
+Total number of generated files = 14

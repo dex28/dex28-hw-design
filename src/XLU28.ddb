@@ -1,0 +1,18 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+Libraries=Folder
+Macros=Folder
+DEX28=Folder
+Misc=Folder
+XPU-D=Folder
+[Libraries]
+Editor Kind=Folder
+[Macros]
+Editor Kind=Folder
+[DEX28]
+Editor Kind=Folder
+[Misc]
+Editor Kind=Folder
+[XPU-D]
+Editor Kind=Folder

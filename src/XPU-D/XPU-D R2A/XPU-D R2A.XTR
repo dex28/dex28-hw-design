@@ -1,0 +1,60 @@
+Schematic Parts Extract with Excel Report...
+============================================
+Created: 2007-12-09 22:51:48
+
+Processing Report:
+Parameters used:
+Excel file name: "C:\WORK\DEX28\HW\Assembly\A Stock MGR\Reports\ASSY XPU-D-R2A.xls"
+Match Field: "Designator"
+Match Excel Column: 2
+Scope: "All"
+Current Sheet Only: "False"
+Compare and Report Only: "False"
+Updating the following fields:
+   "Part Type" from column 1
+   "Part Field 1" from column 5
+   "Part Field 2" from column 6
+   "Part Field 3" from column 7
+   "Part Field 4" from column 8
+   "Part Field 5" from column 9
+   "Part Field 6" from column 10
+Opening all the sheets in this project
+Number of sheets to be updated: 6
+Processing sheet 1 of 6     XPU-D\XPU-D R2A\XPU-D R2A.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 6
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 1 of 6
+Processing sheet 2 of 6     XPU-D\XPU-D R2A\Power Supply.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 46
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 2 of 6
+Processing sheet 3 of 6     XPU-D\XPU-D R2A\Backplane Interface.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 60
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 3 of 6
+Processing sheet 4 of 6     XPU-D\XPU-D R2A\JTAG.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 37
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 4 of 6
+Processing sheet 5 of 6     XPU-D\XPU-D R2A\SAM7.Sch
+   Adding dummy part to mark Sch as dirty
+   Dummy part removed
+   Parts on this sheet updated successfully       : 35
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 5 of 6
+Processing sheet 6 of 6     XPU-D\XPU-D R2A\README.Sch
+   Parts on this sheet updated successfully       : 0
+   Parts on this sheet *not* found in spreadsheet : 0
+Processed sheet 6 of 6
+
+
+All parts were matched in the Excel file.
+

@@ -1,0 +1,68 @@
+[Directory]
+ARM MCU.Sch=Sch
+Power Supply.Sch=Sch
+MCU Ethernet.Sch=Sch
+MCU Memory.Sch=Sch
+MCU Peripherals.Sch=Sch
+XPU-D R1A.Sch=Sch
+XPU-D R1A.Pcb=PCB
+XPU-D R1A.cfg=Text
+CAM for XPU-D R1A.cam=CAMManager
+JTAG.Sch=Sch
+XPU-D R1A.ERC=Text
+XPU-D R1A.REP=Text
+XPU-D R1A.DRC=Text
+Preview XPU-D R1A.PPC=PCBPrint
+XPU-D R1A.XLS=SPREAD
+XPU-D R1A.XTR=Text
+CAM for XPU-D R1A=Folder
+Backplane Interface.Sch=Sch
+[ARM MCU.Sch]
+Editor Kind=Sch
+[Power Supply.Sch]
+Editor Kind=Sch
+[MCU Ethernet.Sch]
+Editor Kind=Sch
+[MCU Memory.Sch]
+Editor Kind=Sch
+[MCU Peripherals.Sch]
+Editor Kind=Sch
+[XPU-D R1A.Sch]
+Editor Kind=Sch
+Attributes=131072
+[XPU-D R1A.Pcb]
+Editor Kind=PCB
+[XPU-D R1A.cfg]
+Editor Kind=Text
+Attributes=131072
+[CAM for XPU-D R1A.cam]
+Editor Kind=CAMManager
+[JTAG.Sch]
+Editor Kind=Sch
+[XPU-D R1A.ERC]
+Editor Kind=Text
+Attributes=131072
+[XPU-D R1A.REP]
+Editor Kind=Text
+[XPU-D R1A.DRC]
+Editor Kind=Text
+[Preview XPU-D R1A.PPC]
+Editor Kind=PCBPrint
+[XPU-D R1A.XLS]
+Editor Kind=SPREAD
+[XPU-D R1A.XTR]
+Editor Kind=Text
+Attributes=131072
+[CAM for XPU-D R1A]
+Editor Kind=Folder
+[Backplane Interface.Sch]
+Editor Kind=Sch
+[XPU-D R1A.Sch Childlist]
+ChildCount=7
+Child1=Power Supply.Sch
+Child2=ARM MCU.Sch
+Child3=MCU Memory.Sch
+Child4=MCU Peripherals.Sch
+Child5=MCU Ethernet.Sch
+Child6=Backplane Interface.Sch
+Child7=JTAG.Sch

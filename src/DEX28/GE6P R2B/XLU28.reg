@@ -1,0 +1,111 @@
+[Directory]
+Power Supply.Sch=Sch
+DSP PS.Sch=Sch
+DSP Time Base.Sch=Sch
+DSP Core 1.Sch=Sch
+DSP Core 2.Sch=Sch
+DSP Core 3.Sch=Sch
+ETX X1.Sch=Sch
+ETX X2.Sch=Sch
+ETX X3.Sch=Sch
+ETX X4.Sch=Sch
+ETX.Sch=Sch
+DASL 1.Sch=Sch
+DASL 2.Sch=Sch
+DASL 3.Sch=Sch
+GE6P R2B.Pcb=PCB
+CAM Outputs for GE6P R2B.cam=CAMManager
+GE6P R2B.Bom=Text
+GE6P R2B.cfg=Text
+GE6P R2B.DRC=Text
+GE6P R2B.ERC=Text
+GE6P R2B.REP=Text
+GE6P R2B.Sch=Sch
+GE6P R2B.SIG=Text
+Preview GE6P R2B.PPC=PCBPrint
+Mechanics=Folder
+GE6P R2B.XLS=SPREAD
+[Power Supply.Sch]
+Editor Kind=Sch
+[DSP PS.Sch]
+Editor Kind=Sch
+[DSP Time Base.Sch]
+Editor Kind=Sch
+[DSP Core 1.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core 1.Sch Childlist]
+ChildCount=1
+Child1=DASL 1.Sch
+[DSP Core 2.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core 2.Sch Childlist]
+ChildCount=1
+Child1=DASL 2.Sch
+[DSP Core 3.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core 3.Sch Childlist]
+ChildCount=1
+Child1=DASL 3.Sch
+[ETX X1.Sch]
+Editor Kind=Sch
+[ETX X2.Sch]
+Editor Kind=Sch
+[ETX X3.Sch]
+Editor Kind=Sch
+[ETX X4.Sch]
+Editor Kind=Sch
+[ETX.Sch]
+Editor Kind=Sch
+Attributes=131072
+[ETX.Sch Childlist]
+ChildCount=4
+Child1=ETX X1.Sch
+Child2=ETX X2.Sch
+Child3=ETX X3.Sch
+Child4=ETX X4.Sch
+[DASL 1.Sch]
+Editor Kind=Sch
+[DASL 2.Sch]
+Editor Kind=Sch
+[DASL 3.Sch]
+Editor Kind=Sch
+[GE6P R2B.Pcb]
+Editor Kind=PCB
+[CAM Outputs for GE6P R2B.cam]
+Editor Kind=CAMManager
+[GE6P R2B.Bom]
+Editor Kind=Text
+Attributes=131072
+[GE6P R2B.cfg]
+Editor Kind=Text
+Attributes=131072
+[GE6P R2B.DRC]
+Editor Kind=Text
+[GE6P R2B.ERC]
+Editor Kind=Text
+Attributes=131072
+[GE6P R2B.REP]
+Editor Kind=Text
+[GE6P R2B.Sch]
+Editor Kind=Sch
+Attributes=131072
+[GE6P R2B.Sch Childlist]
+ChildCount=7
+Child1=Power Supply.Sch
+Child2=ETX.Sch
+Child3=DSP PS.Sch
+Child4=DSP Time Base.Sch
+Child5=DSP Core 1.Sch
+Child6=DSP Core 2.Sch
+Child7=DSP Core 3.Sch
+[GE6P R2B.SIG]
+Editor Kind=Text
+[Preview GE6P R2B.PPC]
+Editor Kind=PCBPrint
+[Mechanics]
+Editor Kind=Folder
+[GE6P R2B.XLS]
+Editor Kind=SPREAD

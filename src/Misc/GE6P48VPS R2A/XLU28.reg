@@ -1,0 +1,28 @@
+[Directory]
+GE6P48VPS R2A.cam=CAMManager
+GE6P48VPS R2A.Pcb=PCB
+GE6P48VPS R2A.REP=Text
+GE6P48VPS R2A.Sch=Sch
+Preview GE6P48VPS R2A.PPC=PCBPrint
+GE6P48VPS R2A.ERC=Text
+GE6P48VPS R2A.DRC=Text
+GE6P48VPS R2A.cfg=Text
+GE6P48VPS R2A.Bom=Text
+[GE6P48VPS R2A.cam]
+Editor Kind=CAMManager
+[GE6P48VPS R2A.Pcb]
+Editor Kind=PCB
+[GE6P48VPS R2A.REP]
+Editor Kind=Text
+[GE6P48VPS R2A.Sch]
+Editor Kind=Sch
+[Preview GE6P48VPS R2A.PPC]
+Editor Kind=PCBPrint
+[GE6P48VPS R2A.ERC]
+Editor Kind=Text
+[GE6P48VPS R2A.DRC]
+Editor Kind=Text
+[GE6P48VPS R2A.cfg]
+Editor Kind=Text
+[GE6P48VPS R2A.Bom]
+Editor Kind=Text

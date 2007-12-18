@@ -1,0 +1,99 @@
+[Directory]
+Power Supply.Sch=Sch
+XLU28.PCB=PCB
+XLU28.Sch=Sch
+DBI.Sch=Sch
+Copy of XLU28.cfg=Text
+DSP Core 1.Sch=Sch
+DSP Core 2.Sch=Sch
+DSP Core 3.Sch=Sch
+DSP Core 4.Sch=Sch
+DSP Array.Sch=Sch
+DSP PS.Sch=Sch
+DSP Time Base.Sch=Sch
+ETX X1.Sch=Sch
+ETX X2.Sch=Sch
+ETX X3.Sch=Sch
+ETX X4.Sch=Sch
+ETX.Sch=Sch
+XLU28.ERC=Text
+XLU28.cfg=Text
+XLU28.DRC=Text
+CAM Outputs for XLU28.cam=CAMManager
+XLU28.REP=Text
+XLU28.Bom=Text
+XLU28.XLS=SPREAD
+[Power Supply.Sch]
+Editor Kind=Sch
+[XLU28.PCB]
+Editor Kind=PCB
+[XLU28.Sch]
+Editor Kind=Sch
+Attributes=131072
+[XLU28.Sch Childlist]
+ChildCount=4
+Child1=Power Supply.Sch
+Child2=DBI.Sch
+Child3=DSP Array.Sch
+Child4=ETX.Sch
+[DBI.Sch]
+Editor Kind=Sch
+[Copy of XLU28.cfg]
+Editor Kind=Text
+[DSP Core 1.Sch]
+Editor Kind=Sch
+[DSP Core 2.Sch]
+Editor Kind=Sch
+[DSP Core 3.Sch]
+Editor Kind=Sch
+[DSP Core 4.Sch]
+Editor Kind=Sch
+[DSP Array.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Array.Sch Childlist]
+ChildCount=6
+Child1=DSP PS.Sch
+Child2=DSP Time Base.Sch
+Child3=DSP Core 1.Sch
+Child4=DSP Core 2.Sch
+Child5=DSP Core 3.Sch
+Child6=DSP Core 4.Sch
+[DSP PS.Sch]
+Editor Kind=Sch
+[DSP Time Base.Sch]
+Editor Kind=Sch
+[ETX X1.Sch]
+Editor Kind=Sch
+[ETX X2.Sch]
+Editor Kind=Sch
+[ETX X3.Sch]
+Editor Kind=Sch
+[ETX X4.Sch]
+Editor Kind=Sch
+[ETX.Sch]
+Editor Kind=Sch
+Attributes=131072
+[ETX.Sch Childlist]
+ChildCount=4
+Child1=ETX X1.Sch
+Child2=ETX X2.Sch
+Child3=ETX X3.Sch
+Child4=ETX X4.Sch
+[XLU28.ERC]
+Editor Kind=Text
+Attributes=131072
+[XLU28.cfg]
+Editor Kind=Text
+Attributes=131072
+[XLU28.DRC]
+Editor Kind=Text
+[CAM Outputs for XLU28.cam]
+Editor Kind=CAMManager
+[XLU28.REP]
+Editor Kind=Text
+[XLU28.Bom]
+Editor Kind=Text
+Attributes=131072
+[XLU28.XLS]
+Editor Kind=SPREAD

@@ -1,0 +1,68 @@
+Error Report For : Doc\PCI-2DSP\PCI-GE4P.Sch    11-Oct-2006  19:00:03
+
+ #1 Warning   Unconnected Input Pin On Net CLK1
+   DSP Core 2.Sch(U600-97 @930,695)
+
+ #3 Error   Floating Input Pins On Net CLK1
+Pin DSP Core 2.Sch(U600-97 @930,695)
+
+ #4 Warning   Unconnected Input Pin On Net CLK2
+   DSP Core 1.Sch(U500-97 @930,695)
+
+ #6 Error   Floating Input Pins On Net CLK2
+Pin DSP Core 1.Sch(U500-97 @930,695)
+
+ #7 Warning   Unconnected Input Pin On Net CLK3
+   DASL 1.Sch(U1500-15 @150,570)
+
+ #9 Error   Floating Input Pins On Net CLK3
+Pin DASL 1.Sch(U1500-15 @150,570)
+
+ #10 Warning   Unconnected Input Pin On Net CLK7
+   DASL 2.Sch(U1600-15 @150,570)
+
+ #12 Error   Floating Input Pins On Net CLK7
+Pin DASL 2.Sch(U1600-15 @150,570)
+
+ #15 Error   Floating Input Pins On Net HBIL
+Pin DSP Core 1.Sch(U500-62 @340,715)
+Pin DSP Core 2.Sch(U600-62 @340,715)
+
+ #18 Error   Floating Input Pins On Net HCNTL0
+Pin DSP Core 1.Sch(U500-39 @340,705)
+Pin DSP Core 2.Sch(U600-39 @340,705)
+
+ #21 Error   Floating Input Pins On Net HCNTL1
+Pin DSP Core 1.Sch(U500-46 @340,695)
+Pin DSP Core 2.Sch(U600-46 @340,695)
+
+ #24 Error   Floating Input Pins On Net HR/W\
+Pin DSP Core 1.Sch(U500-18 @340,685)
+Pin DSP Core 2.Sch(U600-18 @340,685)
+
+ #25 Warning   Unconnected Input Pin On Net H\C\S\0
+   DSP Core 1.Sch(U500-17 @340,655)
+
+ #27 Error   Floating Input Pins On Net H\C\S\0
+Pin DSP Core 1.Sch(U500-17 @340,655)
+
+ #28 Warning   Unconnected Input Pin On Net H\C\S\1
+   DSP Core 2.Sch(U600-17 @340,655)
+
+ #30 Error   Floating Input Pins On Net H\C\S\1
+Pin DSP Core 2.Sch(U600-17 @340,655)
+
+ #33 Error   Floating Input Pins On Net H\D\S\
+Pin DSP Core 1.Sch(U500-129 @340,675)
+Pin DSP Core 2.Sch(U600-129 @340,675)
+
+ #36 Error   Floating Input Pins On Net H\R\S\T\0
+Pin DSP Core 1.Sch(U500-98 @340,575)
+Pin DASL 1.Sch(U1500-64 @150,590)
+
+ #39 Error   Floating Input Pins On Net H\R\S\T\1
+Pin DSP Core 2.Sch(U600-98 @340,575)
+Pin DASL 2.Sch(U1600-64 @150,590)
+
+
+End Report

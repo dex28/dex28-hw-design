@@ -1,0 +1,34 @@
+CAM Outputs Generation Report
+for 'CAM for DEX28-BRI2P R1A.cam'
+at 11:32:13 on 3-May-2007 
+
+
+'Gerber Output 1'
+'DEX28-BRI2P R1A.GTL' generated
+'DEX28-BRI2P R1A.GBL' generated
+'DEX28-BRI2P R1A.GTO' generated
+'DEX28-BRI2P R1A.GBO' generated
+'DEX28-BRI2P R1A.GTP' generated
+'DEX28-BRI2P R1A.GBP' generated
+'DEX28-BRI2P R1A.GTS' generated
+'DEX28-BRI2P R1A.GBS' generated
+'DEX28-BRI2P R1A.GP1' generated
+'DEX28-BRI2P R1A.GP2' generated
+'DEX28-BRI2P R1A.GM1' generated
+'DEX28-BRI2P R1A.REP' generated
+
+'NC Drill Output 1'
+'DEX28-BRI2P R1A.TXT' generated
+'DEX28-BRI2P R1A.DRL' generated
+'DEX28-BRI2P R1A.DRR' generated
+
+'BOM Output 1'
+This output was disabled.
+No files were generated
+
+'Pick Place Output 1'
+This output was disabled.
+No files were generated
+
+
+Total number of generated files = 15

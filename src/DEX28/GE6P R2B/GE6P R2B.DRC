@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : Doc\GE6P R2A\GE6P R2A.Pcb
+Date     : 11-Apr-2005
+Time     : 09:38:14
+
+WARNING: Primitives found on Internal Planes
+       Ground
+       Power
+
+Processing Rule : Clearance Constraint (Gap=18mil) (Is a Polygon  ),(Is on net PCICLK_4 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=18mil) (Is a Polygon  ),(Is part of net class Ethernet )
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=8400mil) (Max=8700mil) (Is on net PCICLK_4 )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Prefered=10mil) (Is on net VCC )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Prefered=10mil) (Is on net +5V )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=20mil) (Max=160mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Prefered=10mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0mil) (Is in component BT1 ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11mil) (Is a Polygon  ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Is a Polygon  ),(Is part of net class Hi Voltage )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:04:51

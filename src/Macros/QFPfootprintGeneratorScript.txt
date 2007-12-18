@@ -1,0 +1,65 @@
+How to use the 'QFPfootprintGenerator.bas' Ver. 1.1.
+Made by Brian Guralnick, email brian@point-lab.com.
+
+Revision history:
+--------------------------------------------------------------------------
+v1.1 (Aug 22, 2001)
+
+Fixed a bug with the dialog entry.  Some numeric entries were
+being multiplied by 10.
+
+--------------------------------------------------------------------------
+
+This script will generate QFP & TSOP footprints.
+
+	Since most data sheets provide dimensions on QFPs from pin edge to
+pin edge, this makes Protel's QFP IC wizard almost useless because:
+
+1. Protel only deals with the center of the pins.
+
+2. The center of the pad material under the pad is not a given measurement
+   in the data sheets.
+
+3. You may want a different amount of footprint land material going under the
+   IC package VS excess material going outside the IC package.
+
+4. Re-calculating the new virtual pad center while taking into account added
+   material wanted for etch compensation increases the possibility of a mistake
+   when using Protel's footprint wizard.
+
+
+	If you don't believe the complexity of this endeavor, just take a look
+at the math involved in my script just after the dialog entry, & before the for
+loops.  This is all the work which Protel is missing in their footprint wizard.
+
+
+How to use the entries:
+
+1.  Enter the number of pins in the package vertically on one side.  Count only 1 side.
+2.  Enter the width of the package from pin edge to pin edge on the left & right side
+    of the package.
+3.  Enter the +/- tolerance for the previous measurement.  Optional, I usually use 0
+
+
+4.  Enter the number of pins horizontally in the package on one side.  Enter 0 her for
+    TSOP package.
+5.  Enter the vertical width of the package from pin edge to pin edge.
+
+6.  Enter the pin spacing from pin to pin.
+7.  Enter the pin width.
+8.  Enter the pin length.
+
+9.  Enter the extra-added plating material for the pin towards the inside of the IC
+    package. 0 = no added material, 1 = 1 X the pin width added material. (Makes a
+    perfect square and it's my personal recommendation).
+10. Enter the extra-added plating material for the pin towards the outside of the IC
+    package. 2 = 2 X the pin width.  (Makes a perfect 2X1 rectangle and it's my
+    personal recommendation).
+11. Enter additional etch compensation.  This adds additional meat to the pads
+    horizontally & vertically.  I like 0.04mm. (about 1 mil)
+12. Starting pin location.  0 = normal top left, 1 = old top middle.
+
+13. Chose your measurement units, metric, or imperial.
+
+
+Tadaa, you should have a perfect IC package.

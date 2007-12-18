@@ -1,0 +1,39 @@
+CAM Outputs Generation Report
+for 'CAM for XPU-C64X R1A.cam'
+at 19:47:13 on 7-Dec-2007 
+
+
+'Gerber Output ELPRINT'
+'XPU-C64X R1A.GTL' generated
+'XPU-C64X R1A.GBL' generated
+'XPU-C64X R1A.GTO' generated
+'XPU-C64X R1A.GBO' generated
+'XPU-C64X R1A.GTP' generated
+'XPU-C64X R1A.GBP' generated
+'XPU-C64X R1A.GTS' generated
+'XPU-C64X R1A.GBS' generated
+'XPU-C64X R1A.GP1' generated
+'XPU-C64X R1A.GP2' generated
+'XPU-C64X R1A.GM1' generated
+'XPU-C64X R1A.GM3' generated
+'XPU-C64X R1A.REP' generated
+
+'NC Drill Output 1'
+'XPU-C64X R1A.TXT' generated
+'XPU-C64X R1A.DRL' generated
+'XPU-C64X R1A.DRR' generated
+
+'Gerber Output with Notes'
+This output was disabled.
+No files were generated
+
+'Pick Place Output 1'
+This output was disabled.
+No files were generated
+
+'BOM Output 1'
+This output was disabled.
+No files were generated
+
+
+Total number of generated files = 16

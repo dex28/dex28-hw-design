@@ -1,0 +1,83 @@
+[Directory]
+ARM MCU.Sch=Sch
+MCU Serial.Sch=Sch
+Power Supply.Sch=Sch
+DSP Core.Sch=Sch
+DASL Pair.Sch=Sch
+Power over Ethernet.Sch=Sch
+MCU Ethernet.Sch=Sch
+MCU Memory 1.Sch=Sch
+MCU Memory 2.Sch=Sch
+CAM for DEX28-GE2P R1D.cam=CAMManager
+DEX28-GE2P R1D.Bom=Text
+DEX28-GE2P R1D.cfg=Text
+DEX28-GE2P R1D.DRC=Text
+DEX28-GE2P R1D.ERC=Text
+DEX28-GE2P R1D.Pcb=PCB
+DEX28-GE2P R1D.REP=Text
+DEX28-GE2P R1D.Sch=Sch
+DEX28-GE2P R1D.XLS=SPREAD
+Preview DEX28-GE2P R1D.PPC=PCBPrint
+DEX28-GE2P R1D.XTR=Text
+[ARM MCU.Sch]
+Editor Kind=Sch
+[MCU Serial.Sch]
+Editor Kind=Sch
+[Power Supply.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DSP Core.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DASL Pair.Sch]
+Editor Kind=Sch
+[Power over Ethernet.Sch]
+Editor Kind=Sch
+[MCU Ethernet.Sch]
+Editor Kind=Sch
+[MCU Memory 1.Sch]
+Editor Kind=Sch
+[MCU Memory 2.Sch]
+Editor Kind=Sch
+[CAM for DEX28-GE2P R1D.cam]
+Editor Kind=CAMManager
+[DEX28-GE2P R1D.Bom]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE2P R1D.cfg]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE2P R1D.DRC]
+Editor Kind=Text
+[DEX28-GE2P R1D.ERC]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE2P R1D.Pcb]
+Editor Kind=PCB
+[DEX28-GE2P R1D.REP]
+Editor Kind=Text
+[DEX28-GE2P R1D.Sch]
+Editor Kind=Sch
+Attributes=131072
+[DEX28-GE2P R1D.XLS]
+Editor Kind=SPREAD
+[Preview DEX28-GE2P R1D.PPC]
+Editor Kind=PCBPrint
+[DEX28-GE2P R1D.XTR]
+Editor Kind=Text
+Attributes=131072
+[DEX28-GE2P R1D.Sch Childlist]
+ChildCount=7
+Child1=Power Supply.Sch
+Child2=ARM MCU.Sch
+Child3=MCU Memory 1.Sch
+Child4=MCU Memory 2.Sch
+Child5=MCU Serial.Sch
+Child6=MCU Ethernet.Sch
+Child7=DSP Core.Sch
+[Power Supply.Sch Childlist]
+ChildCount=1
+Child1=Power over Ethernet.Sch
+[DSP Core.Sch Childlist]
+ChildCount=1
+Child1=DASL Pair.Sch

@@ -1,0 +1,407 @@
+Part Cross Reference Report For : DEX28-BRI2P R1A.xrf    5-Feb-2007   21:30:21
+
+Designator     Component           Library Reference Sheet
+-----------------------------------------------------------------
+
+C101           0.1uF               DEX28-BRI2P R1A.Sch
+C102           0.1uF               DEX28-BRI2P R1A.Sch
+C201           0.1uF               Power Supply.Sch
+C202           0.1uF               Power Supply.Sch
+C203           0.1uF               Power Supply.Sch
+C204           1uF                 Power Supply.Sch
+C205           10uF                Power Supply.Sch
+C206           10uF                Power Supply.Sch
+C208           220uF/6.3V, ESR=0.  Power Supply.Sch
+C209           220uF/6.3V, ESR=0.  Power Supply.Sch
+C215           10uF                Power Supply.Sch
+C216           10uF                Power Supply.Sch
+C217           10uF                Power Supply.Sch
+C218           10uF                Power Supply.Sch
+C219           10uF                Power Supply.Sch
+C220           10uF                Power Supply.Sch
+C221           10uF                Power Supply.Sch
+C222           10uF                Power Supply.Sch
+C223           10uF                Power Supply.Sch
+C224           10uF                Power Supply.Sch
+C225           10uF                Power Supply.Sch
+C226           10uF                Power Supply.Sch
+C230           1nF/2kV             DEX28-BRI2P R1A.Sch
+C231           1nF/2kV             DEX28-BRI2P R1A.Sch
+C232           1nF/2kV             DEX28-BRI2P R1A.Sch
+C233           1nF/2kV             DEX28-BRI2P R1A.Sch
+C240           0.1uF               DC-DC Converters.Sch
+C241           10uF                DC-DC Converters.Sch
+C242           10uF                DC-DC Converters.Sch
+C243           0.47uF              DC-DC Converters.Sch
+C244           1nF                 DC-DC Converters.Sch
+C245           0.1uF               DC-DC Converters.Sch
+C246           10nF                DC-DC Converters.Sch
+C247           10nF                DC-DC Converters.Sch
+C248           100pF               DC-DC Converters.Sch
+C251           10uF                DC-DC Converters.Sch
+C252           10uF                DC-DC Converters.Sch
+C253           10uF                DC-DC Converters.Sch
+C254           10uF                DC-DC Converters.Sch
+C255           4.7nF/1.5kV         DC-DC Converters.Sch
+C256           10uF                DC-DC Converters.Sch
+C257           100uF, ESR=0.045    DC-DC Converters.Sch
+C258           10uF                DC-DC Converters.Sch
+C259           47uF                DC-DC Converters.Sch
+C270           1uF/100V            DC-DC Converters.Sch
+C271           1uF/100V            DC-DC Converters.Sch
+C272           4.7nF/1.5kV         DC-DC Converters.Sch
+C273           4.7nF/1.5kV         DC-DC Converters.Sch
+C274           1uF/100V            DC-DC Converters.Sch
+C275           1uF/100V            DC-DC Converters.Sch
+C300           0.1uF               DSP Core.Sch
+C302           10uF                DSP Core.Sch
+C500           10uF                DSP Core.Sch
+C501           0.1uF               DSP Core.Sch
+C502           0.1uF               DSP Core.Sch
+C503           0.1uF               DSP Core.Sch
+C504           0.1uF               DSP Core.Sch
+C505           0.1uF               DSP Core.Sch
+C506           0.1uF               DSP Core.Sch
+C507           0.1uF               DSP Core.Sch
+C508           0.1uF               DSP Core.Sch
+C509           0.1uF               DSP Core.Sch
+C510           0.1uF               DSP Core.Sch
+C511           0.1uF               DSP Core.Sch
+C512           0.1uF               DSP Core.Sch
+C513           10nF                DSP Core.Sch
+C514           10uF                DSP Core.Sch
+C515           10uF                DSP Core.Sch
+C516           10uF                DSP Core.Sch
+C517           10uF                DSP Core.Sch
+C1001          0.1uF               ARM MCU.Sch
+C1004          0.1uF               ARM MCU.Sch
+C1005          0.1uF               ARM MCU.Sch
+C1006          0.1uF               ARM MCU.Sch
+C1007          0.1uF               ARM MCU.Sch
+C1008          0.1uF               ARM MCU.Sch
+C1009          0.1uF               ARM MCU.Sch
+C1010          0.1uF               ARM MCU.Sch
+C1011          0.1uF               ARM MCU.Sch
+C1012          0.1uF               ARM MCU.Sch
+C1013          0.1uF               ARM MCU.Sch
+C1014          0.1uF               ARM MCU.Sch
+C1015          0.1uF               ARM MCU.Sch
+C1016          0.1uF               ARM MCU.Sch
+C1017          0.1uF               ARM MCU.Sch
+C1018          0.1uF               ARM MCU.Sch
+C1019          0.1uF               ARM MCU.Sch
+C1020          0.1uF               ARM MCU.Sch
+C1021          0.1uF               ARM MCU.Sch
+C1022          0.1uF               ARM MCU.Sch
+C1023          5.6nF               ARM MCU.Sch
+C1024          10pF                ARM MCU.Sch
+C1025          10pF                ARM MCU.Sch
+C1026          10pF                ARM MCU.Sch
+C1027          680pF               ARM MCU.Sch
+C1028          4.7nF               ARM MCU.Sch
+C1029          470pF               ARM MCU.Sch
+C1030          10pF                ARM MCU.Sch
+C1031          10nF                ARM MCU.Sch
+C1081          10uF                ARM MCU.Sch
+C1082          10uF                ARM MCU.Sch
+C1101          15pF                MCU Memory.Sch
+C1102          0.1uF               MCU Memory.Sch
+C1103          0.1uF               MCU Memory.Sch
+C1104          0.1uF               MCU Memory.Sch
+C1105          0.1uF               MCU Memory.Sch
+C1106          0.1uF               MCU Memory.Sch
+C1107          0.1uF               MCU Memory.Sch
+C1108          0.1uF               MCU Memory.Sch
+C1109          0.1uF               MCU Memory.Sch
+C1110          0.1uF               MCU Memory.Sch
+C1111          0.1uF               MCU Memory.Sch
+C1112          0.1uF               MCU Memory.Sch
+C1113          0.1uF               MCU Memory.Sch
+C1114          0.1uF               MCU Memory.Sch
+C1115          0.1uF               MCU Memory.Sch
+C1116          0.1uF               MCU Memory.Sch
+C1117          0.1uF               MCU Memory.Sch
+C1123          0.1uF               MCU Memory.Sch
+C1124          0.1uF               MCU Memory.Sch
+C1200          1uF                 MCU Serial.Sch
+C1201          1uF                 MCU Serial.Sch
+C1202          1uF                 MCU Serial.Sch
+C1203          1uF                 MCU Serial.Sch
+C1204          1uF                 MCU Serial.Sch
+C1205          1nF                 MCU Serial.Sch
+C1206          1nF                 MCU Serial.Sch
+C1230          10uF                Power Supply.Sch
+C1400          10uF                MCU Ethernet.Sch
+C1401          0.1uF               MCU Ethernet.Sch
+C1402          10uF                MCU Ethernet.Sch
+C1403          0.1uF               MCU Ethernet.Sch
+C1404          10nF                MCU Ethernet.Sch
+C1405          10uF                MCU Ethernet.Sch
+C1406          0.1uF               MCU Ethernet.Sch
+C1407          10nF                MCU Ethernet.Sch
+C1408          0.1uF               MCU Ethernet.Sch
+C1409          0.1uF               MCU Ethernet.Sch
+C1410          0.1uF               MCU Ethernet.Sch
+C1411          0.1uF               MCU Ethernet.Sch
+C1412          0.1uF               MCU Ethernet.Sch
+C1413          0.1uF               MCU Ethernet.Sch
+C1414          10nF                MCU Ethernet.Sch
+C1415          0.1uF               MCU Ethernet.Sch
+C1416          0.1uF               MCU Ethernet.Sch
+C1450          0.1uF               MCU Ethernet.Sch
+C1451          0.1uF               MCU Ethernet.Sch
+C1452          0.1uF               MCU Ethernet.Sch
+C1453          0.1uF               MCU Ethernet.Sch
+C1502          1uF/100V            ST Interface 1.Sch
+C1505          1uF/100V            ST Interface 2.Sch
+C1520          0.1uF               ISDN Controller.Sch
+C1521          0.1uF               ISDN Controller.Sch
+C1522          0.1uF               ISDN Controller.Sch
+C1523          0.1uF               ISDN Controller.Sch
+C1524          0.1uF               ISDN Controller.Sch
+C1525          0.1uF               ISDN Controller.Sch
+C1526          0.1uF               ISDN Controller.Sch
+C1550          47pF                ISDN Controller.Sch
+C1551          47pF                ISDN Controller.Sch
+C1560          22pF                ST Interface 1.Sch
+C1561          22pF                ST Interface 1.Sch
+C1562          22pF                ST Interface 1.Sch
+C1563          0.1uF               ST Interface 1.Sch
+C1564          1nF/2kV             ST Interface 1.Sch
+C1565          1nF/2kV             ST Interface 1.Sch
+C1566          22pF/100V           ST Interface 1.Sch
+C1567          22pF/100V           ST Interface 1.Sch
+C1580          22pF                ST Interface 2.Sch
+C1581          22pF                ST Interface 2.Sch
+C1582          22pF                ST Interface 2.Sch
+C1583          0.1uF               ST Interface 2.Sch
+C1584          1nF/2kV             ST Interface 2.Sch
+C1585          1nF/2kV             ST Interface 2.Sch
+C1586          22pF/100V           ST Interface 2.Sch
+C1587          22pF/100V           ST Interface 2.Sch
+D200           BAS216              Power Supply.Sch
+D201           BAS216              Power Supply.Sch
+D202           BAS216              Power Supply.Sch
+D203           BAT254              Power Supply.Sch
+D204           BAS216              Power Supply.Sch
+D240           30BQ060             DC-DC Converters.Sch
+D251           SMBJ18A             DC-DC Converters.Sch
+D253           EL17-21SYGC         Power Supply.Sch
+D1000          BAT254              ARM MCU.Sch
+D1002          EL17-21USRC         ARM MCU.Sch
+D1500          SMBJ58A             ST Interface 1.Sch
+D1501          SMBJ58A             ST Interface 2.Sch
+D1560          BAV99               ST Interface 1.Sch
+D1561          BAV99               ST Interface 1.Sch
+D1562          BAV99               ST Interface 1.Sch
+D1563          BAV99               ST Interface 1.Sch
+D1564          BAV99               ST Interface 1.Sch
+D1565          BAV99               ST Interface 1.Sch
+D1580          BAV99               ST Interface 2.Sch
+D1581          BAV99               ST Interface 2.Sch
+D1582          BAV99               ST Interface 2.Sch
+D1583          BAV99               ST Interface 2.Sch
+D1584          BAV99               ST Interface 2.Sch
+D1585          BAV99               ST Interface 2.Sch
+F240           Nano2-2A-Fast       DC-DC Converters.Sch
+F1500          miniSMDC014         ST Interface 1.Sch
+F1502          miniSMDC014         ST Interface 2.Sch
+J201           KLDX-SMT2-0202-A    DC-DC Converters.Sch
+J1201          FRJA-418            MCU Serial.Sch
+J1400A         J0026D21BNL         MCU Ethernet.Sch
+J1400B         J0026D21BNL         MCU Ethernet.Sch
+J1400C         J0026D21BNL         MCU Ethernet.Sch
+J1560          RJHS-5081           ST Interface 1.Sch
+J1580          RJHS-5081           ST Interface 2.Sch
+JP200          HDR1X2              Power Supply.Sch
+JP240          HDR1X2              DC-DC Converters.Sch
+JP1560A        HDR2X2              ST Interface 1.Sch
+JP1560B        HDR2X2              ST Interface 1.Sch
+JP1561A        HDR1X4              ST Interface 1.Sch
+JP1561B        HDR1X4              ST Interface 1.Sch
+JP1562         HDR2X3              ST Interface 1.Sch
+JP1563         HDR2X3              ST Interface 1.Sch
+JP1580A        HDR2X2              ST Interface 2.Sch
+JP1580B        HDR2X2              ST Interface 2.Sch
+JP1581A        HDR1X4              ST Interface 2.Sch
+JP1581B        HDR1X4              ST Interface 2.Sch
+JP1582         HDR2X3              ST Interface 2.Sch
+JP1583         HDR2X3              ST Interface 2.Sch
+L240           DR127-680-R         DC-DC Converters.Sch
+L251           ELL-6UH100M         DC-DC Converters.Sch
+L270           1.8mH/2A            DC-DC Converters.Sch
+L271           ELL-6UH100M         DC-DC Converters.Sch
+L272           ELL-6UH220M         DC-DC Converters.Sch
+L300           MI0805K601R-10      DSP Core.Sch
+L1400          MMZ2012Y202B        MCU Ethernet.Sch
+L1401          MMZ2012Y202B        MCU Ethernet.Sch
+L1402          MMZ2012Y202B        MCU Ethernet.Sch
+L1403          MMZ2012Y202B        MCU Ethernet.Sch
+L1502          B82432T1333K        ST Interface 1.Sch
+L1504          B82432T1333K        ST Interface 2.Sch
+M100           PCB-4L-DEX28-BRI2P  DEX28-BRI2P R1A.Sch
+M101           Copyright           DEX28-BRI2P R1A.Sch
+M103           Dialight 515-1061   DEX28-BRI2P R1A.Sch
+M104           Fiducial            DEX28-BRI2P R1A.Sch
+M105           Fiducial            DEX28-BRI2P R1A.Sch
+M106           Fiducial            DEX28-BRI2P R1A.Sch
+OSC300         CSX750PBB16.384000  DSP Core.Sch
+OSC1400        CSX750PBB50.000000  MCU Ethernet.Sch
+Q1560          BC847C              ST Interface 1.Sch
+Q1561          BC847C              ST Interface 1.Sch
+Q1562          BC847C              ST Interface 1.Sch
+Q1563          BC847C              ST Interface 1.Sch
+Q1580          BC847C              ST Interface 2.Sch
+Q1581          BC847C              ST Interface 2.Sch
+Q1582          BC847C              ST Interface 2.Sch
+Q1583          BC847C              ST Interface 2.Sch
+R104           10k                 DEX28-BRI2P R1A.Sch
+R105           1k                  DEX28-BRI2P R1A.Sch
+R106           33R                 DEX28-BRI2P R1A.Sch
+R201           43k                 Power Supply.Sch
+R203           43k                 Power Supply.Sch
+R205           30k                 Power Supply.Sch
+R207           11k                 Power Supply.Sch
+R240           10R                 DC-DC Converters.Sch
+R241           130k                DC-DC Converters.Sch
+R242           10k                 DC-DC Converters.Sch
+R243           20k                 DC-DC Converters.Sch
+R244           130k                DC-DC Converters.Sch
+R245           4.3k                DC-DC Converters.Sch
+R246           (open)              DC-DC Converters.Sch
+R250           62R                 DC-DC Converters.Sch
+R251           150R                Power Supply.Sch
+R253           1M                  Power Supply.Sch
+R254           1k                  Power Supply.Sch
+R255           470R                Power Supply.Sch
+R256           43k                 Power Supply.Sch
+R301           33R                 DSP Core.Sch
+R504           33R                 DSP Core.Sch
+R505           33R                 DSP Core.Sch
+R506           1k                  DSP Core.Sch
+R507           1k                  DSP Core.Sch
+R508           1k                  DSP Core.Sch
+R509           1k                  DSP Core.Sch
+R510           1k                  DSP Core.Sch
+R511           1k                  DSP Core.Sch
+R512           33R                 DSP Core.Sch
+R513           33R                 DSP Core.Sch
+R514           1k                  DSP Core.Sch
+R515           1k                  DSP Core.Sch
+R516           2.2k                DSP Core.Sch
+R1004          1.27k               ARM MCU.Sch
+R1005          1.96k               ARM MCU.Sch
+R1006          10k                 ARM MCU.Sch
+R1007          10k                 ARM MCU.Sch
+R1008          10k                 ARM MCU.Sch
+R1009          10k                 ARM MCU.Sch
+R1010          1k                  ARM MCU.Sch
+R1011          1k                  ARM MCU.Sch
+R1012          1k                  ARM MCU.Sch
+R1021          150R                ARM MCU.Sch
+R1084          33R                 ARM MCU.Sch
+R1085          33R                 ARM MCU.Sch
+R1086          33R                 ARM MCU.Sch
+R1105          62R                 MCU Memory.Sch
+R1106          1k                  MCU Memory.Sch
+R1123          10k                 MCU Memory.Sch
+R1200          470R                MCU Serial.Sch
+R1202          470R                MCU Serial.Sch
+R1400          10k                 MCU Ethernet.Sch
+R1401          10k                 MCU Ethernet.Sch
+R1402          2.2k                MCU Ethernet.Sch
+R1403          6.8k                MCU Ethernet.Sch
+R1404          10k                 MCU Ethernet.Sch
+R1405          10k                 MCU Ethernet.Sch
+R1406          10k                 MCU Ethernet.Sch
+R1407          33R                 MCU Ethernet.Sch
+R1408          33R                 MCU Ethernet.Sch
+R1450          49.9R               MCU Ethernet.Sch
+R1451          49.9R               MCU Ethernet.Sch
+R1452          49.9R               MCU Ethernet.Sch
+R1453          49.9R               MCU Ethernet.Sch
+R1454          150R                MCU Ethernet.Sch
+R1455          150R                MCU Ethernet.Sch
+R1501          150R                ST Interface 1.Sch
+R1502          150R                ST Interface 1.Sch
+R1504          150R                ST Interface 2.Sch
+R1505          150R                ST Interface 2.Sch
+R1506          10k                 ST Interface 1.Sch
+R1507          10k                 ST Interface 1.Sch
+R1508          10k                 ST Interface 2.Sch
+R1509          10k                 ST Interface 2.Sch
+R1550          1M                  ISDN Controller.Sch
+R1551          330R                ISDN Controller.Sch
+R1552          2.2k                ISDN Controller.Sch
+R1554          2.2k                ISDN Controller.Sch
+R1560          62R                 ST Interface 1.Sch
+R1561          2.2k                ST Interface 1.Sch
+R1562          33k                 ST Interface 1.Sch
+R1563          3.3R                ST Interface 1.Sch
+R1564          3.3R                ST Interface 1.Sch
+R1565          62R                 ST Interface 1.Sch
+R1566          100k                ST Interface 1.Sch
+R1567          33k                 ST Interface 1.Sch
+R1568          33k                 ST Interface 1.Sch
+R1569          100k                ST Interface 1.Sch
+R1570          1M                  ST Interface 1.Sch
+R1571          3.9k                ST Interface 1.Sch
+R1572          3.9k                ST Interface 1.Sch
+R1573          3.9k                ST Interface 1.Sch
+R1574          39k                 ST Interface 1.Sch
+R1575          3.9k                ST Interface 1.Sch
+R1576          330k                ST Interface 1.Sch
+R1577          100R                ST Interface 1.Sch
+R1578          100R                ST Interface 1.Sch
+R1580          62R                 ST Interface 2.Sch
+R1581          2.2k                ST Interface 2.Sch
+R1582          33k                 ST Interface 2.Sch
+R1583          3.3R                ST Interface 2.Sch
+R1584          3.3R                ST Interface 2.Sch
+R1585          62R                 ST Interface 2.Sch
+R1586          100k                ST Interface 2.Sch
+R1587          33k                 ST Interface 2.Sch
+R1588          33k                 ST Interface 2.Sch
+R1589          100k                ST Interface 2.Sch
+R1590          1M                  ST Interface 2.Sch
+R1591          3.9k                ST Interface 2.Sch
+R1592          3.9k                ST Interface 2.Sch
+R1593          3.9k                ST Interface 2.Sch
+R1594          39k                 ST Interface 2.Sch
+R1595          3.9k                ST Interface 2.Sch
+R1596          330k                ST Interface 2.Sch
+R1597          100R                ST Interface 2.Sch
+R1598          100R                ST Interface 2.Sch
+S200           SKHHLQ              Power Supply.Sch
+T1560A         UT20795-05TS        ST Interface 1.Sch
+T1560B         UT20795-05TS        ST Interface 1.Sch
+T1580A         UT20795-05TS        ST Interface 2.Sch
+T1580B         UT20795-05TS        ST Interface 2.Sch
+U101           SN74LVC1G14DBV      DEX28-BRI2P R1A.Sch
+U102           SN74LVC1G07DBV      DEX28-BRI2P R1A.Sch
+U200           SN74LVC1G07DBV      Power Supply.Sch
+U201           SN74LVC1G17DBV      Power Supply.Sch
+U202           TPS75201QPWP        Power Supply.Sch
+U203           TPS75218QPWP        Power Supply.Sch
+U204           STM1818TWX7F        Power Supply.Sch
+U240           LM5000-3MTC         DC-DC Converters.Sch
+U241           CC6-1203SF-E        DC-DC Converters.Sch
+U500           TMS320VC5410APGE16  DSP Core.Sch
+U1000          AT91RM9200-QU-002   ARM MCU.Sch
+U1100          TC58FVM6B5BTG65     MCU Memory.Sch
+U1101          K4S561632H-UC75     MCU Memory.Sch
+U1102          K4S561632H-UC75     MCU Memory.Sch
+U1151          K9F1208U0B-PCB0     MCU Memory.Sch
+U1200          ADM3202ARUZ         MCU Serial.Sch
+U1400          DM9161E             MCU Ethernet.Sch
+U1500A         XHFC-2SU            ISDN Controller.Sch
+U1500B         XHFC-2SU            ISDN Controller.Sch
+U1500C         XHFC-2SU            ISDN Controller.Sch
+U1500D         XHFC-2SU            ISDN Controller.Sch
+U1500E         XHFC-2SU            ISDN Controller.Sch
+VR200          VC060303A100        Power Supply.Sch
+VR201          VC060303A100        Power Supply.Sch
+VR1203         VC060303A100        ARM MCU.Sch
+X1000          CM200S32.768KDZF-U  ARM MCU.Sch
+X1001          CS10-18.432MABJ-UT  ARM MCU.Sch
+X1500          CS10-24.576MABJ-UT  ISDN Controller.Sch

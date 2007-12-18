@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: XPU-D R1A.Pcb   4-Dec-2007   11:58:39
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : TopLayer to BottomLayer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          952              203.20 Inch (5161.28 mm)
+T2        28mil (0.7112mm)         161              81.60 Inch (2072.68 mm)
+T3        35mil (0.889mm)          40               27.20 Inch (690.76 mm)
+T4        37mil (0.9398mm)         48               11.41 Inch (289.92 mm)
+T5        39.4mil (1.00076mm)      4                10.15 Inch (257.91 mm)
+T6        47.2mil (1.19888mm)      10               7.04 Inch (178.89 mm)
+T7        51.2mil (1.30048mm)      4                10.15 Inch (257.77 mm)
+T8        64mil (1.6256mm)         4                12.99 Inch (329.88 mm)
+T9        110mil (2.794mm)         10               41.11 Inch (1044.31 mm)
+T10       51.2mil (1.30048mm)      2         NPTH   10.45 Inch (265.34 mm)
+T11       59.1mil (1.50114mm)      2         NPTH   9.60 Inch (243.90 mm)
+T12       128mil (3.2512mm)        2         NPTH   12.41 Inch (315.27 mm)
+T13       136mil (3.4544mm)        2         NPTH   11.81 Inch (299.98 mm)
+---------------------------------------------------------------------------
+Totals                             1241             449.13 Inch (11407.90 mm)
+
+Total Processing Time : 00:00:01

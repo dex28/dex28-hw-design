@@ -1,0 +1,33 @@
+CAM Outputs Generation Report
+for 'CAM for XPU-D R1A.cam'
+at 11:58:29 on 4-Dec-2007 
+
+
+'Pick Place Output 1'
+'Pick Place for XPU-D R1A.txt' generated
+
+'Gerber Output 1'
+'XPU-D R1A.GTL' generated
+'XPU-D R1A.GBL' generated
+'XPU-D R1A.GTO' generated
+'XPU-D R1A.GBO' generated
+'XPU-D R1A.GTP' generated
+'XPU-D R1A.GBP' generated
+'XPU-D R1A.GTS' generated
+'XPU-D R1A.GBS' generated
+'XPU-D R1A.GP1' generated
+'XPU-D R1A.GP2' generated
+'XPU-D R1A.GM1' generated
+'XPU-D R1A.GM3' generated
+'XPU-D R1A.REP' generated
+
+'NC Drill Output 1'
+'XPU-D R1A.TXT' generated
+'XPU-D R1A.DRL' generated
+'XPU-D R1A.DRR' generated
+
+'BOM Output 1'
+'BOM for XPU-D R1A.bom' generated
+
+
+Total number of generated files = 18

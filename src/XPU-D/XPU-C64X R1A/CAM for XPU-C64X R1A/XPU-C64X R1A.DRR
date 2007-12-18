@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: XPU-C64X R1A.Pcb   7-Dec-2007   19:47:20
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : TopLayer to BottomLayer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          237              14.43 Inch (366.45 mm)
+T2        10mil (0.254mm)          99               15.43 Inch (391.95 mm)
+T3        20mil (0.508mm)          14               3.86 Inch (98.01 mm)
+T4        28mil (0.7112mm)         1                2.49 Inch (63.37 mm)
+T5        32mil (0.8128mm)         14               3.14 Inch (79.81 mm)
+T6        35mil (0.889mm)          8                2.23 Inch (56.66 mm)
+---------------------------------------------------------------------------
+Totals                             373              41.58 Inch (1056.25 mm)
+
+Total Processing Time : 00:00:01
