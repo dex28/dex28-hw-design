@@ -2,7 +2,7 @@
 
 Contains the schematic and PCB files for the following devices:
 
-* [DEX28 BRI2P R1A](pcb-pics/2006-09-10 ASSY DEX28-BRI2P-R1A 2.jpg): 2-port ISDN-BRI Voice over IP (VoIP) gateway
+* [DEX28 BRI2P R1A](pcb-pics/2006-09-10%20ASSY%20DEX28-BRI2P-R1A%202.jpg): 2-port ISDN-BRI Voice over IP (VoIP) gateway
 * [DEX28 GE8P R1B](pcb-pics/2006-06-21 ASSY DEX28-GE8P-R1B.jpg): 8-port DASL Voice over IP (VoIP) gateway
 * [DEX28 GE2P R1D](pcb-pics/2005-09-21 ASSY DEX28-GE2P-R1C 2.jpg): 2-port DASL Voice over IP (VoIP) gateway
 * [DEX28 GE6P R2B](pcb-pics/2004-06-14 ASSY DEX28-GE6P-R2A.jpg): 6-port DASL Voice over IP (VoIP) gateway
