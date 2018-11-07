@@ -3,10 +3,10 @@
 Contains the schematic and PCB files for the following devices:
 
 * [DEX28 BRI2P R1A](pcb-pics/2006-09-10%20ASSY%20DEX28-BRI2P-R1A%202.jpg): 2-port ISDN-BRI Voice over IP (VoIP) gateway
-* [DEX28 GE8P R1B](pcb-pics/2006-06-21 ASSY DEX28-GE8P-R1B.jpg): 8-port DASL Voice over IP (VoIP) gateway
+* [DEX28 GE8P R1B](https://github.com/mekeetsa/dex28-hw-design/blob/master/pcb-pics/2006-06-21%20ASSY%20DEX28-GE8P-R1B.jpg): 8-port DASL Voice over IP (VoIP) gateway
 * [DEX28 GE2P R1D](pcb-pics/2005-09-21 ASSY DEX28-GE2P-R1C 2.jpg): 2-port DASL Voice over IP (VoIP) gateway
 * [DEX28 GE6P R2B](pcb-pics/2004-06-14 ASSY DEX28-GE6P-R2A.jpg): 6-port DASL Voice over IP (VoIP) gateway
-* [GE6P48VPS R1B](pcb-pics/2004-05-21 ASSY DEX28-GE6P-DTS-PSU-R1B (2).jpg): 6-port 48V power supply (current controlled by AVR)
+* [GE6P48VPS R1B](pcb-pics/2004-05-21 ASSY DEX28-GE6P-DTS-PSU-R1B \(2\).jpg): 6-port 48V power supply (current controlled by AVR)
 * [GE6P48VPS R2A](pcb-pics/2006-03-30 ASSY DEX28-GE6P-DTS-PSU-R2A.jpg): 6-port 48V power supply (passive current control)
 * [XPU-D PUB R1A](pcb-pics/2006-10-18 ASSY DEX28-PUB-R1A.jpg): Backplane for Ericsson BP PBX
 * [XPU-D XPU-D R1A](pcb-pics/2006-10-29 ASSY DEX28-XPU-D-R1A.jpg): Chameleon board for BP v1 (Atmel ARM CPU based)
