@@ -17,3 +17,4 @@ Contains the schematic and PCB files for the following devices:
 * [PXB-GE2P R1A](pcb-pics/2005-02-22%20ASSY%20PXB-GE2P-R1A.jpg): TIc54x DSP with DIN96 PXB interface
 * [CPLD-Prog](pcb-pics/2005-11-10%20ASSY%20CPLD-JTAG-PROG.jpg): AVR-based JTAG module to program CPLDs
 
+![pcb-artwork](pcb-artwork.png)
